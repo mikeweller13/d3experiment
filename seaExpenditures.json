@@ -1,0 +1,1116 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "frxe-s3us",
+      "name" : "Expenditures-dollars",
+      "averageRating" : 0,
+      "category" : "Finance",
+      "createdAt" : 1379435473,
+      "description" : "Expenditures - dollars",
+      "displayType" : "table",
+      "downloadCount" : 318,
+      "indexUpdatedAt" : 1414470575,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 5803902,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1381171939,
+      "publicationGroup" : 1157127,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1381171922,
+      "rowsUpdatedBy" : "pfbu-yuv5",
+      "tableId" : 1227089,
+      "totalTimesRated" : 0,
+      "viewCount" : 603,
+      "viewLastModified" : 1381171939,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 104851492,
+        "name" : "Department",
+        "dataTypeName" : "text",
+        "fieldName" : "department",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14267641,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 479,
+          "smallest" : "12LIBLEVY",
+          "null" : 1,
+          "largest" : "SZF",
+          "top" : [ {
+            "count" : 20,
+            "item" : "ARTS"
+          }, {
+            "count" : 19,
+            "item" : "CBLFEE"
+          }, {
+            "count" : 18,
+            "item" : "CEN"
+          }, {
+            "count" : 17,
+            "item" : "CJCS"
+          }, {
+            "count" : 16,
+            "item" : "CRS"
+          }, {
+            "count" : 15,
+            "item" : "CWI"
+          }, {
+            "count" : 14,
+            "item" : "DEBTSVC"
+          }, {
+            "count" : 13,
+            "item" : "DOIT"
+          }, {
+            "count" : 12,
+            "item" : "DON"
+          }, {
+            "count" : 11,
+            "item" : "DPD"
+          }, {
+            "count" : 10,
+            "item" : "DPR"
+          }, {
+            "count" : 9,
+            "item" : "EDLEVY"
+          }, {
+            "count" : 8,
+            "item" : "FAS"
+          }, {
+            "count" : 7,
+            "item" : "FG"
+          }, {
+            "count" : 6,
+            "item" : "FPEN"
+          }, {
+            "count" : 5,
+            "item" : "HSD"
+          }, {
+            "count" : 4,
+            "item" : "JC"
+          }, {
+            "count" : 3,
+            "item" : "LAW"
+          }, {
+            "count" : 2,
+            "item" : "LEG"
+          }, {
+            "count" : 1,
+            "item" : "NMF"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 104851493,
+        "name" : "BCL",
+        "dataTypeName" : "text",
+        "fieldName" : "bcl",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14267642,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 479,
+          "smallest" : "1998B Capital Facilities Refunding REET I",
+          "null" : 1,
+          "largest" : "Youth Violence Prevention",
+          "top" : [ {
+            "count" : 20,
+            "item" : "CRS REET II Support to Transportation"
+          }, {
+            "count" : 19,
+            "item" : "Technology Infrastructure"
+          }, {
+            "count" : 18,
+            "item" : "Appropriation to General Fund Subfunds and Special Funds"
+          }, {
+            "count" : 17,
+            "item" : "Reserves"
+          }, {
+            "count" : 16,
+            "item" : "Support to Operating Funds"
+          }, {
+            "count" : 15,
+            "item" : "Public Health Services"
+          }, {
+            "count" : 14,
+            "item" : "Department Management"
+          }, {
+            "count" : 13,
+            "item" : "General Expense"
+          }, {
+            "count" : 12,
+            "item" : "Major Maintenance/Replacement"
+          }, {
+            "count" : 11,
+            "item" : "Major Projects"
+          }, {
+            "count" : 10,
+            "item" : "Mobility-Capital"
+          }, {
+            "count" : 9,
+            "item" : "Mobility-Operations"
+          }, {
+            "count" : 8,
+            "item" : "Street Maintenance"
+          }, {
+            "count" : 7,
+            "item" : "Administration"
+          }, {
+            "count" : 6,
+            "item" : "Fire Prevention"
+          }, {
+            "count" : 5,
+            "item" : "Operations"
+          }, {
+            "count" : 4,
+            "item" : "Resource Management"
+          }, {
+            "count" : 3,
+            "item" : "Administrative Services"
+          }, {
+            "count" : 2,
+            "item" : "City Librarian's Office"
+          }, {
+            "count" : 1,
+            "item" : "Library Programs and Services"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 104851494,
+        "name" : "Program",
+        "dataTypeName" : "text",
+        "fieldName" : "program",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 14267643,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 480,
+          "smallest" : "1998B Capital Facilities Refunding",
+          "null" : 0,
+          "largest" : "Youth Violence Prevention",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Human Resources"
+          }, {
+            "count" : 19,
+            "item" : "Combined Sewer Overflows"
+          }, {
+            "count" : 18,
+            "item" : "Customer Service"
+          }, {
+            "count" : 17,
+            "item" : "Distribution"
+          }, {
+            "count" : 16,
+            "item" : "Flooding, Sewer Back-up, and Landslides"
+          }, {
+            "count" : 15,
+            "item" : "Debt Service"
+          }, {
+            "count" : 14,
+            "item" : "Other General Expenses"
+          }, {
+            "count" : 13,
+            "item" : "Taxes"
+          }, {
+            "count" : 12,
+            "item" : "Habitat Conservation Program"
+          }, {
+            "count" : 11,
+            "item" : "New Facilities"
+          }, {
+            "count" : 10,
+            "item" : "Field Operations"
+          }, {
+            "count" : 9,
+            "item" : "Pre-Capital Planning & Development"
+          }, {
+            "count" : 8,
+            "item" : "Project Delivery"
+          }, {
+            "count" : 7,
+            "item" : "Utility Systems Management"
+          }, {
+            "count" : 6,
+            "item" : "Protection of Beneficial Uses"
+          }, {
+            "count" : 5,
+            "item" : "Rehabilitation"
+          }, {
+            "count" : 4,
+            "item" : "Rehabilitation and Heavy Equipment"
+          }, {
+            "count" : 3,
+            "item" : "Sediments"
+          }, {
+            "count" : 2,
+            "item" : "Shared Cost Projects"
+          }, {
+            "count" : 1,
+            "item" : "Technology"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 104851495,
+        "name" : "2012 Actual",
+        "dataTypeName" : "number",
+        "fieldName" : "_2012_actual",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 14267644,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 401,
+          "smallest" : "-27771523",
+          "sum" : "3946989412",
+          "null" : 79,
+          "average" : "9842866.364089776",
+          "largest" : "287471458",
+          "top" : [ {
+            "count" : 20,
+            "item" : "446930"
+          }, {
+            "count" : 19,
+            "item" : "1101325"
+          }, {
+            "count" : 18,
+            "item" : "3058221"
+          }, {
+            "count" : 17,
+            "item" : "12059925"
+          }, {
+            "count" : 16,
+            "item" : "7433093"
+          }, {
+            "count" : 15,
+            "item" : "17343070"
+          }, {
+            "count" : 14,
+            "item" : "34682771"
+          }, {
+            "count" : 13,
+            "item" : "-16052816"
+          }, {
+            "count" : 12,
+            "item" : "22399471"
+          }, {
+            "count" : 11,
+            "item" : "26990735"
+          }, {
+            "count" : 10,
+            "item" : "15699217"
+          }, {
+            "count" : 9,
+            "item" : "14975567"
+          }, {
+            "count" : 8,
+            "item" : "134194621"
+          }, {
+            "count" : 7,
+            "item" : "257636446"
+          }, {
+            "count" : 6,
+            "item" : "92632101"
+          }, {
+            "count" : 5,
+            "item" : "4813421"
+          }, {
+            "count" : 4,
+            "item" : "12903704"
+          }, {
+            "count" : 3,
+            "item" : "54744025"
+          }, {
+            "count" : 2,
+            "item" : "2536413"
+          }, {
+            "count" : 1,
+            "item" : "15920507"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 104851496,
+        "name" : "2013 Adopted",
+        "dataTypeName" : "number",
+        "fieldName" : "_2013_adopted",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 14267645,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 413,
+          "smallest" : "-28841160",
+          "sum" : "4323996121",
+          "null" : 67,
+          "average" : "10469724.26392252",
+          "largest" : "283183154",
+          "top" : [ {
+            "count" : 20,
+            "item" : "6682957"
+          }, {
+            "count" : 19,
+            "item" : "3000"
+          }, {
+            "count" : 18,
+            "item" : "730935"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 104851497,
+        "name" : "2014 Endorsed",
+        "dataTypeName" : "number",
+        "fieldName" : "_2014_endorsed",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 14267646,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 408,
+          "smallest" : "-29687722",
+          "sum" : "4601383705",
+          "null" : 72,
+          "average" : "11277901.23774510",
+          "largest" : "287056886",
+          "top" : [ {
+            "count" : 20,
+            "item" : "7465891"
+          }, {
+            "count" : 19,
+            "item" : "29024085"
+          }, {
+            "count" : 18,
+            "item" : "713654"
+          }, {
+            "count" : 17,
+            "item" : "8205791"
+          }, {
+            "count" : 16,
+            "item" : "1056895"
+          }, {
+            "count" : 15,
+            "item" : "1427904"
+          }, {
+            "count" : 14,
+            "item" : "481513"
+          }, {
+            "count" : 13,
+            "item" : "557787"
+          }, {
+            "count" : 12,
+            "item" : "1110903"
+          }, {
+            "count" : 11,
+            "item" : "4907955"
+          }, {
+            "count" : 10,
+            "item" : "14637966"
+          }, {
+            "count" : 9,
+            "item" : "9995707"
+          }, {
+            "count" : 8,
+            "item" : "22172709"
+          }, {
+            "count" : 7,
+            "item" : "37057610"
+          }, {
+            "count" : 6,
+            "item" : "-14883459"
+          }, {
+            "count" : 5,
+            "item" : "49201662"
+          }, {
+            "count" : 4,
+            "item" : "30923869"
+          }, {
+            "count" : 3,
+            "item" : "20393599"
+          }, {
+            "count" : 2,
+            "item" : "17201000"
+          }, {
+            "count" : 1,
+            "item" : "138716624"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 104851498,
+        "name" : "2014 Proposed",
+        "dataTypeName" : "number",
+        "fieldName" : "_2014_proposed",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 14267647,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 444,
+          "smallest" : "-30798401",
+          "sum" : "4695329581",
+          "null" : 36,
+          "average" : "10575066.62387387",
+          "largest" : "287713469",
+          "top" : [ {
+            "count" : 20,
+            "item" : "0"
+          }, {
+            "count" : 19,
+            "item" : "28188829"
+          }, {
+            "count" : 18,
+            "item" : "22600235"
+          }, {
+            "count" : 17,
+            "item" : "17025137"
+          }, {
+            "count" : 16,
+            "item" : "135847101"
+          }, {
+            "count" : 15,
+            "item" : "287713469"
+          }, {
+            "count" : 14,
+            "item" : "104540792"
+          }, {
+            "count" : 13,
+            "item" : "2610018"
+          }, {
+            "count" : 12,
+            "item" : "26574225"
+          }, {
+            "count" : 11,
+            "item" : "64492125"
+          }, {
+            "count" : 10,
+            "item" : "3547722"
+          }, {
+            "count" : 9,
+            "item" : "14346371"
+          }, {
+            "count" : 8,
+            "item" : "31064732"
+          }, {
+            "count" : 7,
+            "item" : "3195304"
+          }, {
+            "count" : 6,
+            "item" : "11864169"
+          }, {
+            "count" : 5,
+            "item" : "45000"
+          }, {
+            "count" : 4,
+            "item" : "3422898"
+          }, {
+            "count" : 3,
+            "item" : "39822802"
+          }, {
+            "count" : 2,
+            "item" : "23922173"
+          }, {
+            "count" : 1,
+            "item" : "2915905"
+          } ]
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Refresh Frequency" : {
+            "Frequency" : ""
+          },
+          "Data Owner" : {
+            "Owner" : "City Budget Office"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "pfbu-yuv5",
+        "displayName" : "Seattle IT",
+        "profileImageUrlLarge" : "/api/users/pfbu-yuv5/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/pfbu-yuv5/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/pfbu-yuv5/profile_images/TINY",
+        "roleName" : "administrator",
+        "screenName" : "Seattle IT",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "pfbu-yuv5",
+        "displayName" : "Seattle IT",
+        "profileImageUrlLarge" : "/api/users/pfbu-yuv5/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/pfbu-yuv5/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/pfbu-yuv5/profile_images/TINY",
+        "roleName" : "administrator",
+        "screenName" : "Seattle IT",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story", "view_all_dataset_status_logs" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "4A99890A-6807-401E-940C-CFFFEDFDDE48", 1, 1381171914, "386118", 1381171914, "386118", "{\n}", "12LIBLEVY", "Library Levy Operating Transfer", "Library Levy Operating Transfer", null, "13049781", "12658704", "12658704" ]
+, [ 2, "3BC83111-47D3-4B98-9BB7-2E735E70EB40", 2, 1381171914, "386118", 1381171914, "386118", "{\n}", "ARTS", "Arts Account", "Administrative Services", "409133", "400683", "411913", "587579" ]
+, [ 3, "6A1E91AB-A0BF-407D-A93C-2E0BDB496AA7", 3, 1381171914, "386118", 1381171914, "386118", "{\n}", "ARTS", "Arts Account", "Community Development and Outreach", "1721308", "518398", "534369", "524770" ]
+, [ 4, "26C03CF6-C403-4246-8068-CAFBAE7DF66F", 4, 1381171914, "386118", 1381171914, "386118", "{\n}", "ARTS", "Arts Account", "Cultural Partnerships", "2502448", "3030729", "3005137", "3440764" ]
+, [ 5, "A5F65EEF-60EC-44EC-905B-8749A3A9E46D", 5, 1381171914, "386118", 1381171914, "386118", "{\n}", "ARTS", "Arts Account", "Langston Hughes Performing Arts Institute", null, "745698", "778669", "809180" ]
+, [ 6, "9CB3839A-6FC2-41CA-AD55-F38B11BD29D5", 6, 1381171914, "386118", 1381171914, "386118", "{\n}", "ARTS", "Municipal Arts Fund", "Municipal Arts Fund", "2798353", "2449820", "2513673", "2991764" ]
+, [ 7, "AF60202F-A64E-4629-8C67-2C97649CCA23", 7, 1381171914, "386118", 1381171914, "386118", "{\n}", "AUD", "Office of City Auditor", "Office of City Auditor", "1148312", "1913014", "1461132", "1402670" ]
+, [ 8, "B3A22A13-3190-4F1C-A180-B278540A983E", 8, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Cable Communications", "723252", "745244", "766477", "776904" ]
+, [ 9, "CCF09B08-485E-4EDC-8F65-3CCC33B3123A", 9, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Community Technology", "1317216", "1333350", "1367133", "1431718" ]
+, [ 10, "4271A441-922E-4A95-827B-CF250D311DDE", 10, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Finance and Administration", "299688", "373754", "386050", "0" ]
+, [ 11, "CE5433E4-5B8B-4BA8-97D2-FC1ADBDEE174", 11, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Seattle Channel/Democracy Portal", "2747004", "3149911", "3199017", "3374246" ]
+, [ 12, "6E936D3B-CB08-4D06-83F8-F07990FB0544", 12, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Technology Infrastructure", "1412148", "1571415", "1662290", "1632943" ]
+, [ 13, "68351EF5-6AD8-45D6-B9C3-59F2B24C9CC8", 13, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Technology Leadership", "264984", "314158", "321271", "427054" ]
+, [ 14, "333D8910-5B1E-45E6-8EC8-D14650B907C1", 14, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Information Technology Fund", "Web Site Support", "1226364", "959061", "966959", "1066920" ]
+, [ 15, "09397600-00E1-42DF-9A7B-E8D26C9EBD29", 15, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBLFEE", "Cable Fee Support to Library Fund", "Citizen Literacy/Access", "190000", "190000", "190000", "190000" ]
+, [ 16, "79558998-2B33-434A-A15E-FA4D88FDB6C0", 16, 1381171914, "386118", 1381171914, "386118", "{\n}", "CBO", "City Budget Office", "City Budget Office", "3786901", "4085671", "4206264", "4614910" ]
+, [ 17, "F7FDD40C-7989-434C-B8B1-E29C0298B78B", 17, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Access", "Access", "1133624", "1209050", "1249107", "1104817" ]
+, [ 18, "CFD94A24-443E-48B9-83E7-519EC09E8C49", 18, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Administration-SC", "Administration-SC", "6920107", "6893147", "7170263", "7111676" ]
+, [ 19, "D014C079-CB41-4C56-84BD-BE47103F1655", 19, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Campus Grounds", "Campus Grounds", "11657335", "11678551", "12045194", "11879836" ]
+, [ 20, "48C3376F-0D09-4840-BA6A-94EC0AE17592", 20, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Commercial Events", "Commercial Events", "1017390", "891893", "946294", "928822" ]
+, [ 21, "1CACCEDB-E058-4605-9E67-9FB1E35476CB", 21, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Community Programs", "Community Programs", "2037252", "2060255", "2078339", "2043852" ]
+, [ 22, "8DA83910-9C6A-41C7-8CF1-0CAAA9823EE8", 22, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Cultural Facilities", "Cultural Facilities", "210847", "220830", "229145", "224855" ]
+, [ 23, "EB1F516B-4882-4393-94E6-7A0A997D58EB", 23, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Debt", "Debt", "124845", "134850", "126450", "126450" ]
+, [ 24, "45037750-1741-4E84-8A18-9EE8A19CA1E9", 24, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Festivals", "Festivals", "915438", "1481593", "1505509", "1481009" ]
+, [ 25, "3D3715BE-2840-427C-8EA7-AFF10D853732", 25, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "Judgment and Claims", "Judgment and Claims", "931564", "588291", "702856", "702856" ]
+, [ 26, "B0F7CBC9-BF05-4DAA-9A65-91A5965FEF42", 26, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "KeyArena", "KeyArena", "5791314", "6297392", "6613285", "6532873" ]
+, [ 27, "EA482890-0921-44F5-A6F1-07782D323B60", 27, 1381171914, "386118", 1381171914, "386118", "{\n}", "CEN", "McCaw Hall", "McCaw Hall", "4096973", "4474705", "4207416", "4159575" ]
+, [ 28, "444EAE79-0F7D-4948-97F0-9C8C813A1E34", 28, 1381171914, "386118", 1381171914, "386118", "{\n}", "CIV", "Civil Service Commissions", "Civil Service Commissions", "323212", "373371", "385887", "379974" ]
+, [ 29, "E33C7230-1884-41E1-9A07-B18FB3096C99", 29, 1381171914, "386118", 1381171914, "386118", "{\n}", "CJCS", "Indigent Defense Services", "Indigent Defense Services", "5495386", "6383246", "6533471", "6533471" ]
+, [ 30, "5F5EDF55-8F82-446E-9704-C93395ED07AA", 30, 1381171914, "386118", 1381171914, "386118", "{\n}", "CJCS", "Jail Services", "Jail Services", "13519861", "16108951", "16702137", "16702137" ]
+, [ 31, "107786F1-60F3-4F64-8A97-F16DA924C442", 31, 1381171914, "386118", 1381171914, "386118", "{\n}", "CPC", "Office of the Community Police Commission", "Office of the Community Police Commission", null, null, null, "813380" ]
+, [ 32, "CC78D8BA-6296-48F1-82E8-1DD3E24D2632", 32, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "1998B Capital Facilities Refunding REET I", "1998B Capital Facilities Refunding", "1186763", null, null, null ]
+, [ 33, "029A5A0B-83EC-4A60-813E-D3DD9CA20F44", 33, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "Artwork Conservation - OACA - CRS REET I", "Artwork Conservation - OACA REET I", "185800", "187000", "187000", "187000" ]
+, [ 34, "898F0A38-8209-4719-A242-51B808E52CBE", 34, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET I Support to McCaw Hall Fund", "CRS REET I Support to McCaw Hall Fund", "200000", "250000", "250000", "250000" ]
+, [ 35, "A633EDFF-174D-4101-B95B-9F852BCAC5C4", 35, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET I Support to Transportation", "Roads - REET I", null, null, "1500000", "1500000" ]
+, [ 36, "0485AE1F-4A42-4DE1-9083-86A14631E0DF", 36, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Alaskan Way Viaduct and Seawall Replacement-RII", null, null, null, null ]
+, [ 37, "A94715BF-465D-4CB5-92A1-C0431C3DAB07", 37, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Bridges & Structures - REET II", "2956418", "2673000", "2674000", "2674000" ]
+, [ 38, "36346818-C398-44D4-B543-F110177023D7", 38, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Corridor & Intersection Improvements - REET II", "26373", null, null, "2550000" ]
+, [ 39, "D536932C-022C-4F18-9380-CE66E1BBDD72", 39, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Debt Service (SDOT) - REET II", "1511989", "1362000", "1362000", "1362000" ]
+, [ 40, "84D1BD38-7C67-4546-BDF7-206F1F415798", 40, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Freight Mobility - REET II", null, null, "235000", "1860000" ]
+, [ 41, "91E0D318-2FE1-4CA1-8BA8-5737436F4B76", 41, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Landslide Mitigation - REET II", "291463", "200000", "200000", "200000" ]
+, [ 42, "51C257D5-6E3C-441F-928F-CDD0EBB1F355", 42, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Neighborhood Enhancements - REET II", "922629", "752000", "0", "1092000" ]
+, [ 43, "75B5F053-CF28-41D2-BDFD-EDA4F42C53E6", 43, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Roads - REET II", null, "5840000", "4690000", "7440000" ]
+, [ 44, "4AAC7F28-7593-4A81-A8AB-9E563E15538E", 44, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Sidewalks & Pedestrian Facilities - REET II", "19724", "2135000", "85000", "6983000" ]
+, [ 45, "54F33983-F831-4773-8FE5-4FC5C6345F5E", 45, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Trails and Bike Paths - REET II", "17995", null, null, null ]
+, [ 46, "980B98FD-710D-4C56-9536-AA854359A9F6", 46, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS REET II Support to Transportation", "Transit & HOV - REET II", "2146", "1150000", "350000", "350000" ]
+, [ 47, "9F9E1993-0A13-4B6B-B402-5923D58C160C", 47, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS Street Vacation Support to Transportation", "Corridor and Intersection Improvements - CRS-SV", "357178", null, null, null ]
+, [ 48, "9E2F8468-44EE-42D7-87F4-B10295179B21", 48, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS Street Vacation Support to Transportation", "Freight Mobility", "443212", null, null, "100000" ]
+, [ 49, "5CF64C2A-E3FD-46CC-B31B-519E9BD29BFA", 49, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS Street Vacation Support to Transportation", "Transit & HOV - SV", "104680", null, null, null ]
+, [ 50, "B2097A6E-760B-44DA-9263-103247203A2E", 50, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS Support for Operating & Maintenance Expenditures - REET I", "CRS O&M Expenditures", null, null, null, "800000" ]
+, [ 51, "C462E938-4D74-46F8-B434-B068F949C626", 51, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS Support for Operating & Maintenance Expenditures - REET II", "CRS O&M Support Program - REET II", null, null, null, "1000000" ]
+, [ 52, "186EA1CF-951D-4EED-9A14-CAFE61716F67", 52, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS-U Support to General Subfund", "CRS-U Support to General Subfund", null, "30000", null, null ]
+, [ 53, "B4837B9C-E7BD-469B-A062-769E90E5F5B6", 53, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS-U Support to Transportation", "Bridges & Structures - CRS-U", null, null, null, null ]
+, [ 54, "8472C4F4-17F2-4E40-86B7-67D0D1997F79", 54, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS-U Support to Transportation", "CRS-U Support to Transportation", "70125", "1025625", "504500", "504500" ]
+, [ 55, "713DA1C5-CF69-451B-8DD2-6D33B0CC15DB", 55, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS-U Support to Transportation", "Debt Service (SDOT) - CRS-U", "1074150", null, null, null ]
+, [ 56, "F019D019-D618-48E3-A471-0F4B9640DC72", 56, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "CRS-U Support to Transportation", "Transit & HOV - CRS-U", null, null, "2500000", "2500000" ]
+, [ 57, "17B0E759-44B0-4F15-9A2F-59B0E1FF4FB4", 57, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "Design Commission - CRS REET I", "Design Commission - CRS REET I", "302640", "491719", "508071", "575753" ]
+, [ 58, "6D8224D0-47DC-47BB-8607-6AE5B28B8090", 58, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "MOHAI Replacement Facilities", "MOHAI Replacement Facilities", null, "2500000", "2500000", "0" ]
+, [ 59, "C57B9A8A-E3FB-4A32-93B3-3C07186A6E6B", 59, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "Tenant Relocation Assistance Program - CRS-UR", "Tenant Relocation Assistance Program", "74000", "73474", "75678", "75678" ]
+, [ 60, "180EA2B0-7AE6-4053-A414-D6CA6B5EB123", 60, 1381171914, "386118", 1381171914, "386118", "{\n}", "CRS", "Tenant Relocation Assistance Program REET I", "Tenant Relocation Assistance Program REET I", "58944", "152850", "157436", "157436" ]
+, [ 61, "DC362305-D83A-4A23-A78F-3302BF46077E", 61, 1381171914, "386118", 1381171914, "386118", "{\n}", "CWI", "Central Waterfront Improvement Fund Interest Expense", "Central Waterfront Improvement Fund Interest Expense", null, "390000", "595000", "979550" ]
+, [ 62, "77F4C860-F03E-44A4-9C88-28370F73BA74", 62, 1381171914, "386118", 1381171914, "386118", "{\n}", "CWI", "Central Waterfront Improvement Fund Support to Transportation", "Central Waterfront Improvement Fund Support to Transportation Budget Control Level", null, "9500000", null, "15500000" ]
+, [ 63, "90F86D69-41AD-42A4-BC61-6EFE8F3FACA8", 63, 1381171914, "386118", 1381171914, "386118", "{\n}", "DEBTSVC", "Bond Interest and Redemption", "Bond Interest and Redemption", null, "1516514", "1521014", "2612757" ]
+, [ 64, "DDEE93BC-2ABF-4D82-B9C0-ECB66220214B", 64, 1381171914, "386118", 1381171914, "386118", "{\n}", "DEBTSVC", "Debt Issuance Costs", "Debt Issuance Costs", null, null, null, null ]
+, [ 65, "1C006E16-507C-41B0-BA47-C57AD5DD068A", 65, 1381171914, "386118", 1381171914, "386118", "{\n}", "DEBTSVC", "Debt Issuance Costs - LTGO", "Debt Issuance Costs - LTGO", null, "2470677", "2403303", "2723310" ]
+, [ 66, "FEFAF760-7025-4E65-BAD9-242FFAA0658C", 66, 1381171914, "386118", 1381171914, "386118", "{\n}", "DEBTSVC", "Debt Issuance Costs - UTGO", "Debt Issuance Costs -UTGO", null, null, null, "2100000" ]
+, [ 67, "6CF8CA95-F306-4390-81F9-92D075DBDF51", 67, 1381171914, "386118", 1381171914, "386118", "{\n}", "DEBTSVC", "UTGO Debt Service", "UTGO - Bond Interest and Redemption", null, "15487394", "14799344", "17789544" ]
+, [ 68, "10CF7698-BD45-4A0F-A460-30BC5E7DB559", 68, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Finance and Administration", "Finance and Administration", "2173162", "2625525", "2713931", "2724468" ]
+, [ 69, "E89B755E-0807-47AA-8875-2D189863578F", 69, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Finance and Administration", "General and Administration", "3611599", "8247798", "36383981", "28047250" ]
+, [ 70, "240E6A78-6287-472C-BBEA-DE5BF75C584C", 70, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Office of Electronic Communications", "Citywide Web Team", "2241800", "2082106", "2149251", "2279790" ]
+, [ 71, "7133AA00-44B3-48C0-9B56-E993547150AD", 71, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Office of Electronic Communications", "Community Technology", "1223236", "1309230", "1342624", "1344485" ]
+, [ 72, "809509D5-7155-4184-86E3-31F3102B6582", 72, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Office of Electronic Communications", "Office of Cable Communications", "663298", "733013", "753171", "729694" ]
+, [ 73, "31B0B8AF-4BB7-4C97-A18E-74914858EF4B", 73, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Office of Electronic Communications", "Seattle Channel", "2782825", "3200786", "3242254", "3270028" ]
+, [ 74, "743A2331-4D99-4CE0-B23C-0ABCC506FCBF", 74, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Communications Shop", "1574927", "1797287", "1855789", "1893257" ]
+, [ 75, "8D2064FE-B089-4736-B648-AE611BBDE2F3", 75, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Data Network Services", "2950127", "3962394", "4109214", "4027429" ]
+, [ 76, "F6051712-4D24-4C9D-B989-422926D543BC", 76, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Enterprise Computing Services", "6838299", "8343106", "9356655", "8469846" ]
+, [ 77, "1413005B-1C8A-4796-A163-B473FA70E394", 77, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Messaging, Collaboration and Directory Services", "1764468", "2505760", "3486285", "3566472" ]
+, [ 78, "6F2C0245-FDD4-4376-A89B-DE059085B8CF", 78, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Radio Network", "1226879", "1226644", "1264909", "2602166" ]
+, [ 79, "7F377AFB-3F16-4D40-8796-4F3240153C4E", 79, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Service Desk", "1363027", "1242912", "1276546", "1209240" ]
+, [ 80, "7FE2BE92-49C9-45CD-9048-67CE4AD0F380", 80, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Technical Support Services", "1822715", "2018271", "2078283", "2032828" ]
+, [ 81, "BB75997F-568F-4D99-A8B9-96E1582AF548", 81, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Technology Engineering and Project Management", "3415223", "4686636", "4828011", "4881911" ]
+, [ 82, "F8C83CE6-90F9-420A-90F1-54EAD21F2B3F", 82, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Technology Infrastructure Grants", "1653481", null, null, null ]
+, [ 83, "305ADAA0-6929-4E1F-AFCD-52640DF6D573", 83, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Telephone Services", "9628516", "8876979", "9088241", "8747424" ]
+, [ 84, "8B606673-76AA-4629-B20F-C6D7335806E9", 84, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Infrastructure", "Warehouse", "746674", "1241110", "1272303", "1273483" ]
+, [ 85, "7E28EDC2-4AAB-4791-8150-8C5F2544B6A4", 85, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Leadership and Governance", "Citywide Technology Leadership and Governance", "1947736", "2020614", "2066186", "1852669" ]
+, [ 86, "661ED8A5-082D-4534-980C-522E84BCD440", 86, 1381171914, "386118", 1381171914, "386118", "{\n}", "DOIT", "Technology Leadership and Governance", "Information Security Office", null, null, null, "637472" ]
+, [ 87, "ED5D8387-D6A4-431C-826F-9ABFEE7ADCE5", 87, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Community Building", "Historic Preservation-Community Building", null, "803887", "835959", "1132592" ]
+, [ 88, "6A8283F0-10AC-46BA-8896-37EEFFF5B793", 88, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Community Building", "Major Institutions and Schools", "185829", "218365", "225913", "224519" ]
+, [ 89, "A0FA8D9E-A9DE-4E5C-B119-D3373EB86ED2", 89, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Community Building", "Neighborhood District Coordinators", "1238116", "1281972", "1325355", "1441123" ]
+, [ 90, "324A88BD-FCEA-49ED-8595-6DE5C3C4CEE5", 90, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Community Building", "Neighborhood Planning Outreach", "222291", "263766", "271864", "271377" ]
+, [ 91, "40FF333C-661C-4C63-A356-47D0A7718CE8", 91, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Community Building", "P-Patch Community Gardens", "695959", "752678", "778239", "776826" ]
+, [ 92, "4C634A62-85A5-4275-90A3-919890D3A959", 92, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Community Building", "South Park Information and Resource Center", "50747", "51762", null, null ]
+, [ 93, "8EAD0C47-21B1-459C-9004-D0777FCCD687", 93, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Director's Office", "Communications", "141061", "157976", "163147", "161682" ]
+, [ 94, "61ECB952-14C0-4F4D-976E-7C327B5E364A", 94, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Director's Office", "Executive Leadership", "255822", "312273", "322559", "319069" ]
+, [ 95, "436CF3D5-11F5-49D1-AF2C-F19D1DF12627", 95, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Director's Office", "Historic Preservation", "777277", "1", null, null ]
+, [ 96, "E7D607B4-3F6E-4868-B3D6-AC9CBE2D323E", 96, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Internal Operations", "Internal Operations/Administrative Services", "1447853", "1422032", "1447425", "1514153" ]
+, [ 97, "438B42D5-F195-4532-A049-9DF6924FB837", 97, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Office for Education", "Office for Education", null, null, null, "251612" ]
+, [ 98, "4112767A-99CE-411C-9B3A-98E71E670AD2", 98, 1381171914, "386118", 1381171914, "386118", "{\n}", "DON", "Youth Violence Prevention", "Youth Violence Prevention", "3473461", "4952282", "5631046", "5629297" ]
+, [ 99, "3D7E6A66-70E3-4BAB-B777-62ACF288D0E9", 99, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Annual Certification and Inspection", "Annual Certification and Inspection", "4079193", "4030331", "4159482", "4125222" ]
+, [ 100, "9757027E-BB75-486B-A4E0-78FA41218A1B", 100, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Code Compliance", "Code Compliance", "4339750", "4701151", "4849027", "4906053" ]
+, [ 101, "591A8C77-C30E-47CF-B110-62E6435172B3", 101, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Code Compliance", "Rental Housing", null, null, null, "769406" ]
+, [ 102, "ABCF9636-276B-4E3E-9FCB-653EC7D599F3", 102, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Inspections", "Building Inspections", "4231451", "4638325", "4783631", "4858389" ]
+, [ 103, "984D5B29-78C4-4D45-8A8E-A6D1D9702AF0", 103, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Inspections", "Construction Inspections Unallocated CBA", null, "2220000", "2220000", "2220000" ]
+, [ 104, "81F282E5-C92E-43CA-8DF5-51D266B51D99", 104, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Inspections", "Electrical Inspections", "4279189", "4268670", "4404142", "4328482" ]
+, [ 105, "019052FD-E0D5-4181-B2ED-D3CA643EFE7E", 105, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Inspections", "Signs and Billboards", "330458", "302646", "313050", "326391" ]
+, [ 106, "C1524DDD-F5AF-4039-987A-28067806F636", 106, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Inspections", "Site Review and Inspection", "2731433", "2737610", "2826336", "2922864" ]
+, [ 107, "55F975F6-4E17-4A41-884B-FF50BF1CABD9", 107, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Permit Services", "Applicant Services Center", "8346157", "8909148", "9192385", "0" ]
+, [ 108, "0186A7A1-55E2-4261-82F7-A68E7552D571", 108, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Permit Services", "Construction Permit Services Overhead Allocations", null, "-942473", "-971869", "-1569505" ]
+, [ 109, "C7035E08-EB6E-4748-A32E-C50B0E131867", 109, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Permit Services", "Construction Permit Services Unallocated CBA", null, "3900000", "3900000", "3900000" ]
+, [ 110, "6039D7F9-DB95-4FBD-ADB9-7B2F08DAA0FB", 110, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Permit Services", "Construction Plans Administration", "6057682", "5421297", "5531019", "12209516" ]
+, [ 111, "4DC67D7C-2626-452C-B4D4-7AE837AE2E12", 111, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Construction Permit Services", "Operations Division Management", null, "942473", "971869", "1569505" ]
+, [ 112, "C75B717E-62E8-4434-A00F-74D3A02AA9DD", 112, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Department Leadership", "Community Engagement", null, "517970", "534230", "619525" ]
+, [ 113, "CC63435A-52DA-48A9-A116-ED68F367DF03", 113, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Department Leadership", "Department Leadership Overhead Allocations", null, "-11966701", "-12344903", "-12666087" ]
+, [ 114, "A64A9345-889D-49F4-B760-F79B7A4C9DBA", 114, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Department Leadership", "Director's Office", null, "687918", "710060", "698651" ]
+, [ 115, "AD7C4F98-E3C5-44CE-B724-F608867A8936", 115, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Department Leadership", "Finance and Accounting Services", null, "5636798", "5888190", "5932656" ]
+, [ 116, "CFD7EA69-6754-4DF1-A658-D065026078EE", 116, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Department Leadership", "Human Resources", null, "308584", "318522", "314397" ]
+, [ 117, "2FB013BA-8BF4-4817-A38B-EA133470A532", 117, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Department Leadership", "Information Technology Services", null, "4815430", "4893901", "5100858" ]
+, [ 118, "24AD91B2-94BE-470A-9B3F-BC178B8DFB16", 118, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Land Use Services", "Land Use Services", "4380492", "4212357", "4351923", "10702988" ]
+, [ 119, "2BE3951B-8B4A-44B0-830B-1B9FA3B6F123", 119, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Land Use Services", "Land Use Services Unallocated CBA", null, "500000", "500000", "500000" ]
+, [ 120, "B92B5AB4-1939-4835-9E8F-56C296E80CB4", 120, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Land Use Services", "Public Resource Center", "1256481", "1266016", "1305287", "1402740" ]
+, [ 121, "D827AD56-6349-4A9F-94E0-4D5DBF8DB626", 121, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Planning", "Design Commission", "322579", "499318", "516159", "575169" ]
+, [ 122, "BF954E7F-2E6A-42D8-9622-F3B9B6DE6EB8", 122, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Planning", "Planning Commission", "538631", "544606", "562140", "541799" ]
+, [ 123, "9CC4A93F-4C2D-447D-8F01-9306A7889055", 123, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Planning", "Planning Services", "5321659", "5307118", "5337709", "5713899" ]
+, [ 124, "74F838CF-9402-4627-8877-65A8828845EE", 124, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPD", "Process Improvements and Technology", "Process Improvements and Technology", "829611", "2560662", "2095010", "4016281" ]
+, [ 125, "59754E2E-1448-4BA2-967B-2C7169057A90", 125, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Environmental Learning and Programs", "Environmental Learning and Programs", "3235524", "1544716", "1648180", "1483728" ]
+, [ 126, "E0FA8612-277C-4CB6-8627-47F778FE6052", 126, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Facility and Structure Maintenance", "Facility and Structure Maintenance", "13074971", "14642971", "15200448", "15368537" ]
+, [ 127, "C8A7A201-D399-4A2B-893C-7A9CE714AC93", 127, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Finance and Administration", "Finance and Administration", "7592468", "7975440", "8247209", "8454548" ]
+, [ 128, "D60977C2-FC6D-4D19-8284-F4EF9868B397", 128, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Golf", "Golf", "9156912", "9561340", "11173584", "10237755" ]
+, [ 129, "A85F0F64-7A39-4603-9645-D0A985DEEA7E", 129, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Judgment and Claims", "Judgment and Claims", "1143424", "545903", "652212", "652212" ]
+, [ 130, "0519EE5A-35F2-4818-B609-195DF01CD0D5", 130, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Natural Resources Management", "Natural Resources Management", "6460463", "6967564", "7170301", "7323232" ]
+, [ 131, "931A9EB0-6B6D-43AD-A2D4-A0B1BBB344A7", 131, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Park Cleaning, Landscaping, and Restoration", "Park Cleaning, Landscaping, and Restoration", "25940369", "29317459", "30537538", "30796853" ]
+, [ 132, "1452C2B9-3DC2-4FA0-A9CF-92BF9A902F28", 132, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Planning, Development, and Acquisition", "Planning, Development, and Acquisition", "5937691", "5992858", "6193819", "6194913" ]
+, [ 133, "6396A13D-9184-4795-B76B-1C9E5DA69980", 133, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Policy Direction and Leadership", "Policy Direction and Leadership", "5061275", "6375235", "6944151", "7576510" ]
+, [ 134, "165648AA-2B73-47A2-A372-83CDD23C199A", 134, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Recreation Facilities and Programs", "Recreation Facilities and Programs", "22425409", "22376671", "23290127", "23924736" ]
+, [ 135, "0D204F66-664F-434C-A28C-9C5502C1E4DC", 135, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Seattle Aquarium", "Seattle Aquarium", "3291385", "3340125", "3460178", "3227980" ]
+, [ 136, "B0F3B7E2-1388-42BE-8D68-61C04771DE57", 136, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Seattle Conservation Corps", "Seattle Conservation Corps", "3313809", "3941751", "4051180", "4025199" ]
+, [ 137, "14E49E92-A27E-4E08-8532-EDF765E6E929", 137, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Swimming, Boating, and Aquatics", "Swimming, Boating, and Aquatics", "7670568", "8457299", "9448624", "9286885" ]
+, [ 138, "B7BBD17C-44EA-41FB-B749-11F7BF841FF1", 138, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPR", "Woodland Park Zoo", "Woodland Park Zoo", "6603882", "6665481", "6820029", "6820029" ]
+, [ 139, "F842B41B-8B15-44FD-9CA1-839285333D4E", 139, 1381171914, "386118", 1381171914, "386118", "{\n}", "DPRLEVY", "Support to Multi-Purpose Trails", "Support to Multi-Purpose Trails", "1191800", null, null, null ]
+, [ 140, "4FD89F7B-0806-40DF-A71F-F1F1B610EDFF", 140, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Administration and Evaluation", "Administration and Evaluation", "957589", "1453981", "1482823", "1482823" ]
+, [ 141, "164E8CD0-E658-4D74-91E4-D4130A7D0D1E", 141, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Early Learning", "Early Learning", "2862707", null, null, null ]
+, [ 142, "809D32AD-B621-4BFB-B6D3-2CB9CC3BBCE6", 142, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Early Learning and School Readiness", "Early Learning and School Readiness", "1388960", "5765435", "7249028", "7249028" ]
+, [ 143, "4831A129-2F41-4A4E-80D0-75623A3B54C5", 143, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Elementary School Academic Achievement", "Elementary School Academic Achievement", "920160", "4610427", "5759323", "5759323" ]
+, [ 144, "ABF58467-21F9-4DA4-9C52-C3E2DF43B1D0", 144, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Family Support and Family Involvement", "Family Support and Family Involvement", "2229203", null, null, null ]
+, [ 145, "C771043B-9CF0-472C-96F0-87C9A7D8C5AB", 145, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "High School Academic Achievement and College/Career Preparation", "High School Academic Achievement and College/Career Preparation", "407171", "2546532", "2605103", "2605103" ]
+, [ 146, "05817F9E-E4EF-47A2-B489-AEA19A663065", 146, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Middle School Academic Achievement and College/Career Preparation", "Middle School Academic Achievement and College/Career Preparation", "434101", "4695173", "5656949", "5656949" ]
+, [ 147, "38BFCC07-00E1-420D-BB11-4A4CAE48323D", 147, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Middle School Support", "Middle School Support", "1050818", null, null, null ]
+, [ 148, "4DAD6295-2D2C-40C6-B88B-14AB369E68C5", 148, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Out-of-School Time", "Out-of-School Time", "2017984", null, null, null ]
+, [ 149, "D569BB4D-C5C5-4962-90CB-940E330ADCA8", 149, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Research and Evaluation", "Research and Evaluation", "55890", null, null, null ]
+, [ 150, "522D589C-981D-4182-B496-682EFB96A2FF", 150, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Student Health", "Student Health", "4726504", "5509470", "6187471", "6187471" ]
+, [ 151, "54CF7A09-A245-48AD-A48B-EFDF73E4472C", 151, 1381171914, "386118", 1381171914, "386118", "{\n}", "EDLEVY", "Support for High-Risk Middle and High School Age Youth", "Support for High-Risk Middle and High School Age Youth", "823573", null, null, null ]
+, [ 152, "99A40C7E-484C-4EE0-B4B3-F901E9884E93", 152, 1381171914, "386118", 1381171914, "386118", "{\n}", "ETH", "Ethics and Elections", "Ethics and Elections", "791670", "898310", "782800", "771278" ]
+, [ 153, "3CC6B6B5-6013-4149-897D-403ECDCB1478", 153, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Budget and Central Services", "Budget and Central Services", "3897754", "4417881", "4516938", "4605557" ]
+, [ 154, "226FAF26-AA1B-43A5-A427-ED93D12534F6", 154, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Business Technology", "Business Technology", "9408715", "11205464", "12865644", "13730086" ]
+, [ 155, "535C655F-B569-4DBD-8903-2F078DDB89D4", 155, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "City Purchasing and Contracting Services", "Contracting Services", "1436725", "2115169", "2184207", "2933558" ]
+, [ 156, "DB80528E-8EB8-4A8D-8826-1EEEE9812D81", 156, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "City Purchasing and Contracting Services", "Purchasing Services", "1510275", "1637045", "1692929", "1684379" ]
+, [ 157, "77911C5D-ADBA-43C2-B08A-C5C9E94A468C", 157, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Facility Services", "Facility Services", "63625183", "64704035", "65267359", "66587076" ]
+, [ 158, "45977BDF-6DCC-415C-947C-4FC313A1151E", 158, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Financial Services", "Accounting", "3790502", "3662757", "3781566", "3838134" ]
+, [ 159, "A3B078A1-3107-4654-8451-6653419FFD5B", 159, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Financial Services", "Business Licensing and Tax Administration", "2578557", "3031857", "3130937", "2981761" ]
+, [ 160, "9C8851A4-B403-492B-86A2-2C8ACD5CAD44", 160, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Financial Services", "City Economics and Financial Management", "2115907", "1780115", "1838600", "1831472" ]
+, [ 161, "2E23DC1B-B2F6-4E3B-9E8E-2799B32BD194", 161, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Financial Services", "Risk Management", "1299804", "1300057", "1342561", "1332295" ]
+, [ 162, "A34DFF2F-58F7-4483-B4C0-20FCA2E66198", 162, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Financial Services", "Treasury", "3197530", "3996213", "4111547", "3991794" ]
+, [ 163, "42533EDF-8577-47AE-B4C7-2838528BD29E", 163, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Fleet Services", "Vehicle Fueling", "8867654", "9936939", "10137310", "10196482" ]
+, [ 164, "27839985-9A98-40DA-87AF-79C4BD21D6CD", 164, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Fleet Services", "Vehicle Leasing", "9662094", "18206685", "18165705", "18873355" ]
+, [ 165, "B4E4BDA8-D0BC-487F-905D-564BD21A2AA3", 165, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Fleet Services", "Vehicle Maintenance", "17507619", "19106415", "19364120", "19330994" ]
+, [ 166, "9103DB5B-AECD-4C58-9718-FB33A886EFDA", 166, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Judgment and Claims", "Judgment and Claims", "361975", "186388", "222685", "222685" ]
+, [ 167, "1F8F3F81-BB10-482B-BEE4-ED21C5D6BC02", 167, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Office of Constituent Services", "Office of Constituent Services", "2661264", "2743909", "2853184", "3129118" ]
+, [ 168, "87E503F7-2BA9-4EA2-808E-262200794CE5", 168, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Revenue and Consumer Protection", "Revenue and Consumer Protection", "2467039", "3340850", "3457272", "3670350" ]
+, [ 169, "33BCBE07-BECC-428A-A178-61404AE94EEA", 169, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Seattle Animal Shelter", "Seattle Animal Shelter", "2991660", "3239796", "3343961", "3407190" ]
+, [ 170, "B82EBCB1-C0BA-4364-99D9-5641354F5933", 170, 1381171914, "386118", 1381171914, "386118", "{\n}", "FAS", "Technical Services", "Capital Development and Construction Management", "2731231", "3065526", "3160032", "3428372" ]
+, [ 171, "956BD6ED-85E5-4B1B-9AC7-C31CF5FB12B3", 171, 1381171914, "386118", 1381171914, "386118", "{\n}", "FBRL", "Fiber Leasing Fund", "Fiber Leasing Fund", null, null, null, "428045" ]
+, [ 172, "5A0B0112-5D6F-4F94-949F-933FD707C949", 172, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Arts Account", "4967327", "4693229", "4639449", "5689702" ]
+, [ 173, "58A114D1-0243-40A6-A482-6907093894A0", 173, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Cumulative Reserve Subfund - Capital Projects Account", "500000", "500000", "500000", "400000" ]
+, [ 174, "8F5E547E-AC23-4E77-B12E-A9812ADBEDDA", 174, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Cumulative Reserve Subfund - Revenue Stabilization Account", "9715000", "4058000", "4226000", "4292950" ]
+, [ 175, "D83C0D24-4721-4229-9C3C-353D26FC29B2", 175, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Emergency Subfund", null, null, "889000", "4623121" ]
+, [ 176, "A92A2361-039E-4569-9B92-C1FC2DF3A9C6", 176, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Finance and Administrative Services Fund", "22484571", "22003273", "22803276", "24150914" ]
+, [ 177, "0FF36EA4-AA10-427A-A6B7-2C6E512D2EF1", 177, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Garage Fund Loan Repayment", null, "2813058", "2031760", "0" ]
+, [ 178, "1435058B-7491-4E57-9861-76CACF4EB939", 178, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "General Bond Interest/Redemption Fund", "12953351", "13946500", "18100712", "16999279" ]
+, [ 179, "E88F7275-05DF-4B56-A061-7E157B81EBFD", 179, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Information Technology Fund", "4149718", "4609011", "4977292", "3974939" ]
+, [ 180, "25A99FC3-7280-4A48-A439-572AC4100B02", 180, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Insurance", "4422259", "5172338", "5430955", "5100000" ]
+, [ 181, "8DFAB701-3D58-4F0F-94CA-FB00E760EAB2", 181, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Appropriation to General Fund Subfunds and Special Funds", "Judgment/Claims Subfund", "1191062", "632690", "755901", "755901" ]
+, [ 182, "E9E46EB9-383D-434D-AAA2-36CC25D975E2", 182, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Budget System Reserve", null, "200000", "200000", "700000" ]
+, [ 183, "67F0A71D-805F-4EF9-82E1-4276648C84B7", 183, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Building Code Impact Support", null, null, null, "150000" ]
+, [ 184, "24FC0351-6B1C-48B6-B921-BE34CB05DAA6", 184, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Department o f Justice Settlement Agreement Public Safety Reserve", "127822", "4587500", "4591200", "5821522" ]
+, [ 185, "1AE5702B-57B0-4EFB-9CE2-460B252F213E", 185, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "District Energy Feasibility Study", null, "175000", null, null ]
+, [ 186, "5847CE91-E3B4-4D60-BB86-BAB4CAB14731", 186, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Duwamish Opportunity Fund Support", null, null, null, "250000" ]
+, [ 187, "716833BF-39A4-445D-BF50-915D000EC800", 187, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Emergency Notification Alert System", null, null, null, "345000" ]
+, [ 188, "EE4670DC-A916-42B7-872D-042FFC34FF63", 188, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "EMS Enhancements", null, null, null, "1000000" ]
+, [ 189, "032D3B2E-BE64-4428-98A3-8A1113DB8987", 189, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Fire Station 39 Housing Services", null, null, "950000", "950000" ]
+, [ 190, "EF63A47B-D0C2-438E-A88C-1ACB56549F5D", 190, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Gender Wage Equity Reserve", null, null, null, "1500000" ]
+, [ 191, "485F4DC7-CE89-4078-B2E4-4286D2CB536E", 191, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Get Engaged: City Boards and Commissions", "31960", "32696", "33416", "33416" ]
+, [ 192, "22B519AF-B203-4BF8-A018-CEF0E4104798", 192, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Human Services Funding Backfill", null, null, null, "525000" ]
+, [ 193, "A43AAB06-3399-4B49-B973-A365596955EB", 193, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Interbay Housing Project", null, null, null, "150000" ]
+, [ 194, "5F2B46A1-CBD8-4227-B36B-7CB50EEC6DC5", 194, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "License and Tax Portal Reserve", "621572", null, null, null ]
+, [ 195, "EA63F039-F7AB-42AB-8460-E0EACDC6D5F8", 195, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Neighborhood Business District Capital Projects", null, "500000", "500000", "250000" ]
+, [ 196, "8C08CB9C-F2ED-4F1C-9A3A-674B3EA88ABA", 196, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Paid Sick Leave Reserve", "50000", "150000", "150000", "0" ]
+, [ 197, "CB44CE7B-426F-45DF-A681-FD50FF2F1F9F", 197, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Police Patrol Reserve", null, "1000000", null, null ]
+, [ 198, "B1B4D1E6-D34E-4CE7-8A29-1AC43DFD7FA9", 198, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Public Toilet Project", null, null, null, "225000" ]
+, [ 199, "AE0EF7FE-AB46-44A4-B862-B4AF2C4A219B", 199, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve for Portable Art Rental and Maintenance", "97806", "275536", "283802", "283802" ]
+, [ 200, "E64FAA11-A43A-4A80-A811-819C8888B827", 200, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Dues/Memberships", null, "0", "0", "0" ]
+, [ 201, "52F6AA28-64B4-44F9-8B43-18FF141A186A", 201, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Election Expense", "1225000", "950000", "700000", "700000" ]
+, [ 202, "8AA9C2F4-19C0-4B89-92EC-512D180A0D6D", 202, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Fire Hydrants", "6996110", "7531213", "8142525", "8142525" ]
+, [ 454, "3CDDC323-1B62-4CB0-BEF6-F97E106BD1D3", 454, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Combined Sewer Overflows", "Combined Sewer Overflows", "22399471", "43834341", "49201662", "47696601" ]
+, [ 203, "3AF40A52-553A-470B-A303-8350A20F69A1", 203, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Industrial Insurance Pensions Payout", "153208", "2000000", "2000000", "2000000" ]
+, [ 204, "82CD8E98-4095-4C8C-B3F6-EBE970C458EF", 204, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Office of Professional Accountability Auditor", "135031", "153090", "160745", "160745" ]
+, [ 205, "3B0AEE16-324F-463F-8CBB-7B8E38D65DB3", 205, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Pacific Science Center Lease Reserve", "120000", "120000", "120000", "120000" ]
+, [ 206, "208C4DAF-888F-4137-B127-6BB3964D1F58", 206, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Puget Sound Clean Air Agency", "408493", "420000", "430000", "430000" ]
+, [ 207, "FD7D376C-3590-4F9A-A4E8-1CB45A00B47D", 207, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Shooting Review Board Civilian", null, "5000", "5000", "5000" ]
+, [ 208, "07FB1F64-110D-448C-A40F-6FB2DA444044", 208, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-State Examiner", "660264", "750000", "768750", "768750" ]
+, [ 209, "84D9110E-289B-46D0-99C2-20D68264562C", 209, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Street Lighting", "11334712", "12363223", "11486259", "9686259" ]
+, [ 210, "86890B9C-F7CF-4C7D-A9B1-D6363EE95CD9", 210, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Transit Pass Subsidy", "2924649", "3225000", "3555000", "2060587" ]
+, [ 211, "0220E298-6C35-46E4-8EEC-21C99D3A7C01", 211, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Recurring Reserve-Voter Registration", "988380", "995000", "995000", "1295000" ]
+, [ 212, "6F2EDBD9-BB6D-4389-8E56-9A7F9C3CFAA4", 212, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Retirement Benefit Study", "134497", null, null, null ]
+, [ 213, "E06EB702-D23E-48D7-90AD-B53999FA34C2", 213, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Same-Sex Marriage Inequitable Tax Treatment Reserve", null, "185000", "185000", "0" ]
+, [ 214, "E5BE2476-39E2-44D6-B8AD-3C87DE87DEC9", 214, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "SDOT Efficiency Study", "59690", null, null, null ]
+, [ 215, "E409AD27-58BB-4BE1-8695-F85EEFD83C97", 215, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Seattle Arts and Culture Capital Award", "12000", null, null, null ]
+, [ 216, "8F793EBA-4340-454F-BAA4-7AC651EC88AA", 216, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Seattle Indian Services Commission", "54213", "50000", null, null ]
+, [ 217, "4A38B55D-64AB-4AB6-9B39-C1D6BCDD73EC", 217, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "SODO Arena Proposal", null, "1000000", null, null ]
+, [ 218, "7AC20C7A-663F-47C1-B4F2-8291ED8CD16D", 218, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Sound Transit - Sales Tax Offset", "696168", null, null, null ]
+, [ 219, "C143CCD6-A5FB-4661-ABFF-8C13357A6FCF", 219, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Tax Refund Interest Reserve", "377870", "500000", "500000", "500000" ]
+, [ 220, "3CB1ECA7-CE71-4B83-B525-A7CFE5D76D95", 220, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "University of Washington Reserve", "500000", "500000", "500000", "500000" ]
+, [ 221, "1F6492E5-C1A0-4BBF-8AC1-4FC01C0230FC", 221, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Wing Luke Museum", "21079", null, null, null ]
+, [ 222, "730D9332-3506-459D-93F8-79436CE47D11", 222, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Reserves", "Yesler Terrace Project Support", null, "150000", null, null ]
+, [ 223, "A2DD5F4D-37F5-4092-BFE0-9AD9DB6801B1", 223, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Drainage and Wastewater Fund", "1193307", "1139072", "1166569", "1213287" ]
+, [ 224, "1551E7D0-FB0F-40F2-952F-181B85475256", 224, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Firefighters Pension Fund", "18874972", "18272657", "18060245", "18047538" ]
+, [ 225, "443AD416-41D4-4774-A3B7-282F777724F6", 225, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Housing Operating Fund-Supp to Op Fund", "39472", null, null, null ]
+, [ 226, "848A4E98-081A-4CD0-BB75-3197D80493CC", 226, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Human Services Operating Fund", "54317473", "59176360", "61833747", "67438561" ]
+, [ 227, "6B67C061-26DF-4338-9273-1015BDE4C8BF", 227, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Library Fund", "48471630", "48044387", "50131066", "48002760" ]
+, [ 228, "E39364C5-8BE8-4CF1-A65C-CC294134A74F", 228, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Low Income Housing Fund", "46462", null, null, null ]
+, [ 229, "1BAA83C8-6A1D-4495-B782-D06914A85ADF", 229, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Neighborhood Matching Subfund", "2779022", "2891284", "2966138", "3529677" ]
+, [ 230, "390A4245-0954-4933-8349-E4CE97488DA5", 230, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Parks and Recreation Fund", "80553584", "85229626", "90654698", "89013950" ]
+, [ 231, "639F7A61-2449-48B7-8F87-8A6C227F0672", 231, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Planning and Development Fund", "9659111", "9651050", "9831256", "10409914" ]
+, [ 232, "590E7D19-F4C3-483A-85A9-5C3C9D3EF75F", 232, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Police Relief and Pension Fund", "20187236", "18987071", "18557893", "20716054" ]
+, [ 233, "48542288-F42D-40AA-A8F8-408EF23E6363", 233, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Seattle Center Fund", "12747002", "12966348", "13463862", "13177592" ]
+, [ 234, "DBD72635-11A5-4209-9DB7-BF83CD9E76EC", 234, 1381171914, "386118", 1381171914, "386118", "{\n}", "FG", "Support to Operating Funds", "Transportation Fund", "37937369", "36701169", "38976028", "40424670" ]
+, [ 235, "6726E31B-FE1E-45BA-80C5-FE56CBA2B7B4", 235, 1381171914, "386118", 1381171914, "386118", "{\n}", "FISC-RSRV", "Emergency Expenditures", "Emergency Expenditures Program", "1973441", "564535", null, null ]
+, [ 236, "3525127B-392D-4E39-8592-E642C8E5C724", 236, 1381171914, "386118", 1381171914, "386118", "{\n}", "FPEN", "Firefighters' Pension", "Administration", "639436", "601758", "614267", "605392" ]
+, [ 237, "363DBDE1-4721-44A9-8EA5-D354FDF6ADF2", 237, 1381171914, "386118", 1381171914, "386118", "{\n}", "FPEN", "Firefighters' Pension", "Death Benefits", "15500", "15000", "15000", "15000" ]
+, [ 238, "55B70CB3-50D2-4957-9D08-1861D79EEA51", 238, 1381171914, "386118", 1381171914, "386118", "{\n}", "FPEN", "Firefighters' Pension", "Medical Benefits", "9470923", "10699999", "10699999", "10699999" ]
+, [ 239, "A9DC9223-727B-488A-9E51-6D709E80AF04", 239, 1381171914, "386118", 1381171914, "386118", "{\n}", "FPEN", "Firefighters' Pension", "Pensions", "8328518", "8700001", "8500001", "8000001" ]
+, [ 240, "FA092F5A-A02E-4166-8D40-AAB27836A5D5", 240, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Aging and Disability Services - Area Agency on Aging", "Healthy Aging", "7386541", "7743019", "7778401", "7776242" ]
+, [ 241, "F7DEA886-8E21-4B71-98EC-0385CB98DF51", 241, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Aging and Disability Services - Area Agency on Aging", "Home-Based Care", "21969162", "25260431", "26016259", "24355411" ]
+, [ 242, "A6B37CE6-BD78-49AB-A027-28DD7226FAF5", 242, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Aging and Disability Services - Area Agency on Aging", "Mayor's Office on Senior Citizens", null, null, null, "543210" ]
+, [ 243, "9B864955-D28B-4CE7-99E0-3477CA9D52DB", 243, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Aging and Disability Services - Area Agency on Aging", "Planning and Coordination", "2389962", "2494584", "2539076", "2688224" ]
+, [ 244, "4F4CC17C-FC70-4F63-9B0C-1F31593FCAE4", 244, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "CDBG - Human Services Department", "Employment Support Services", null, "60000", "800000", "800000" ]
+, [ 245, "000CDC64-7DD4-43B1-AFE0-79422690E03F", 245, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "CDBG - Human Services Department", "Homeless Intervention", "4897405", "3353244", "3503244", "3765594" ]
+, [ 246, "0FD66AE6-AC62-4673-B4D2-61963532A2AE", 246, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "CDBG - Human Services Department", "Leadership and Corporate Services", "234885", "987845", "987845", "987845" ]
+, [ 247, "17463D06-9127-43D1-A95A-7A46FB1EC7FA", 247, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Assistance", "Access to Benefits", null, null, null, "1744360" ]
+, [ 248, "0948724E-D8F3-47FA-9CE4-DB237D7FC144", 248, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Assistance", "Community Facilities", "246489", "599826", "602889", "660141" ]
+, [ 249, "748206EF-2CCA-4149-B1F1-F4AC74C01DD2", 249, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Assistance", "Domestic Violence and Sexual Assault Prevention", null, null, null, "5431196" ]
+, [ 250, "A344A7A7-E805-4BDF-B1C7-371705A364B3", 250, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Assistance", "Emergency and Transitional Services", "26805808", "29523537", "29777446", "31097427" ]
+, [ 251, "6ACF6B5C-2025-4733-9676-1CF714DEAF9C", 251, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Self Sufficiency", "Access to Benefits", "1677002", "1843414", "1858524", "0" ]
+, [ 252, "39DE995F-8BA4-49E3-BB3C-3D30F56F4C6C", 252, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Self Sufficiency", "Community Based Family Support", "3555101", "3591623", "3667085", "0" ]
+, [ 253, "FA08EF65-649A-422A-B8CB-C1A1E7EE2094", 253, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Self Sufficiency", "Domestic Violence and Sexual Assault Prevention", "4263740", "5136985", "5069769", "0" ]
+, [ 254, "5472C963-FDF1-460B-9163-4DD52125176B", 254, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Community Support and Self Sufficiency", "Mayor's Office for Senior Citizens", "411742", "494140", "510245", "0" ]
+, [ 255, "6AE62568-A2AD-4188-A469-1EE7C089551D", 255, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Leadership and Administration", "Data Integrity", "1452114", "2834526", "2926578", "2803193" ]
+, [ 256, "558B646C-BEF9-479C-8072-E267AF236440", 256, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Leadership and Administration", "Fiscal and Contract Administration", "1932586", "2656680", "2727889", "2702033" ]
+, [ 257, "462C2EB3-4B93-426E-B7B0-CE08DF205531", 257, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Leadership and Administration", "Human Resources", "666992", "782252", "731887", "725188" ]
+, [ 258, "56207C74-37CE-453E-B8E5-22E1271B3657", 258, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Leadership and Administration", "Leadership", "2915984", "2791541", "2845845", "2893410" ]
+, [ 259, "733AC02D-6C90-4B8D-BA5D-6F555CB66269", 259, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Alcohol and Other Drugs", "1442501", "1480195", "1514239", "1514240" ]
+, [ 260, "8630B657-93A0-4649-B752-880BDB4C9EB5", 260, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Asthma", "128697", "131271", "134290", "134290" ]
+, [ 261, "63512601-E854-41C8-91F7-3DDC4E467F3E", 261, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Family Support Services", "980534", "1641672", "2285310", "2285310" ]
+, [ 262, "376EDA75-668D-471E-9959-1F4358518057", 262, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Health Care Access", "260791", "266007", "272125", "392125" ]
+, [ 263, "018CF710-F1D6-40CE-9823-7FF015F74ADD", 263, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Health Care for the Homeless", "1519558", "1561491", "1597405", "1597406" ]
+, [ 264, "5AF72D2C-B2AA-4FA3-BFB1-110031D4FF17", 264, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "HIV/AIDS", "820126", "837523", "856786", "856786" ]
+, [ 265, "6B3785F2-55EC-4CC8-9B09-2EDFAD4ABAFA", 265, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Oral Health", "125119", "127621", "130556", "130557" ]
+, [ 266, "D687367E-5472-4B1D-BD93-5170D6CE0B7B", 266, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Public Health Services", "Primary Care: Medical and Dental", "6532094", "6664755", "6818044", "6818045" ]
+, [ 267, "73A4FEED-7E66-4BAD-9FAE-9A0983FEE075", 267, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Youth and Family Empowerment", "Early Learning and Family Support", "8095242", "9056877", "9138787", "9641788" ]
+, [ 268, "02CD4DFE-05BF-45F6-8A32-042F5254C48F", 268, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Youth and Family Empowerment", "Family Support", null, null, null, "3668014" ]
+, [ 269, "4AAD5E20-45E4-40A2-8922-CB8E30A9F4ED", 269, 1381171914, "386118", 1381171914, "386118", "{\n}", "HSD", "Youth and Family Empowerment", "Youth Services", "10878204", "11647112", "11883182", "13927185" ]
+, [ 270, "3107B235-DAA5-429D-BB02-AA35BCEB29C9", 270, 1381171914, "386118", 1381171914, "386118", "{\n}", "HXM", "Office of Hearing Examiner", "Office of Hearing Examiner", "587658", "635100", "656328", "648247" ]
+, [ 271, "8C53CE70-2BA1-45E3-AAA9-1BE7A4342E08", 271, 1381171914, "386118", 1381171914, "386118", "{\n}", "JC", "Claim Expenses", "Claim Expenses", null, "3750000", "3862500", "4350037" ]
+, [ 272, "273F58AE-CAAC-4D2C-87B9-D8332F3BE236", 272, 1381171914, "386118", 1381171914, "386118", "{\n}", "JC", "General Legal Expenses", "General Litigation", null, "100000", "103000", "103000" ]
+, [ 273, "9AB43E60-D8D8-42FB-8815-4E444B5197DA", 273, 1381171914, "386118", 1381171914, "386118", "{\n}", "JC", "Judgment Claims - General", "Judgment/Claims - General Program", "10091654", "0", "0", "0" ]
+, [ 274, "BC210332-B11C-441E-AE97-6CC85B138961", 274, 1381171914, "386118", 1381171914, "386118", "{\n}", "JC", "Litigation Expenses", "Settlement and Judgement Expenses", null, "9745897", "11586470", "12853527" ]
+, [ 275, "EDCC0268-C784-485A-AE94-E9CEF328268A", 275, 1381171914, "386118", 1381171914, "386118", "{\n}", "JC", "Police Action Expenses", "Police Action Expenses", null, "1438066", "1307208", "1307208" ]
+, [ 276, "C6CCC215-9EF5-45C3-9F3C-818886873311", 276, 1381171914, "386118", 1381171914, "386118", "{\n}", "LAW", "Administration", "Administration", "1744476", "1953005", "2012668", "2198827" ]
+, [ 277, "982E7D85-A764-46B9-B010-0212043D2D19", 277, 1381171914, "386118", 1381171914, "386118", "{\n}", "LAW", "Civil", "Civil", "10378201", "11394926", "11733147", "11652519" ]
+, [ 278, "0D76B79C-3A2F-48FC-B264-F9FF0A18BF45", 278, 1381171914, "386118", 1381171914, "386118", "{\n}", "LAW", "Criminal", "Criminal", "6218864", "6547298", "6736333", "6762419" ]
+, [ 279, "2F173730-8D96-4553-8342-8F98F84B3A62", 279, 1381171914, "386118", 1381171914, "386118", "{\n}", "LAW", "Precinct Liaison Attorneys", "Precinct Liaison Program", "394112", "526193", "543411", "565353" ]
+, [ 280, "F8100380-2AA4-4EE1-BE91-F63EF8AFF6A6", 280, 1381171914, "386118", 1381171914, "386118", "{\n}", "LEG", "Legislative Department", "Central Staff", "2372698", "2812510", "2903680", "2856838" ]
+, [ 281, "85F6ADB9-AE97-4A1C-9B64-9737E0BB684D", 281, 1381171914, "386118", 1381171914, "386118", "{\n}", "LEG", "Legislative Department", "City Clerk", "1840088", "2905506", "2884048", "2827892" ]
+, [ 282, "B18AA341-7F24-4D1E-B9B7-258B68FAFE15", 282, 1381171914, "386118", 1381171914, "386118", "{\n}", "LEG", "Legislative Department", "City Council", "4434927", "4939418", "4799964", "4726372" ]
+, [ 283, "DA6B6ED0-4023-46CD-8541-87DBCD730DDE", 283, 1381171914, "386118", 1381171914, "386118", "{\n}", "LEG", "Legislative Department", "General Expense", "2791858", "1956597", "1970331", "2015677" ]
+, [ 284, "354F7D3D-BD68-4A46-88AB-32D7F3186873", 284, 1381171914, "386118", 1381171914, "386118", "{\n}", "MO", "Office of the Mayor", "Office of the Mayor", "3270045", "3640898", "3758088", "3758652" ]
+, [ 285, "DC5D1D6A-1330-43C9-B7D8-EEB516F4FD28", 285, 1381171914, "386118", 1381171914, "386118", "{\n}", "MUNIJAIL", "Municipal Jail Bond Proceeds", "Future Bond Proceeds", "1000000", "1000000", "1000000", "1000000" ]
+, [ 286, "DC8EA830-B892-4D53-940E-DF161830143E", 286, 1381171914, "386118", 1381171914, "386118", "{\n}", "NMF", "Neighborhood Matching Fund", "Large Projects Fund", "889781", "1221455", "1249549", "1474549" ]
+, [ 287, "F0B3EFF0-2D07-4744-B1C9-EDAA61388D41", 287, 1381171914, "386118", 1381171914, "386118", "{\n}", "NMF", "Neighborhood Matching Fund", "Management and Project Development", "701216", "779750", "805713", "963908" ]
+, [ 288, "C8B8941B-BC4A-40A5-BEC4-870AA94F3C36", 288, 1381171914, "386118", 1381171914, "386118", "{\n}", "NMF", "Neighborhood Matching Fund", "Small and Simple Projects Fund", "884868", "1194296", "1221764", "1446764" ]
+, [ 289, "CA39EB22-8D31-4B03-8228-8C03D910BD01", 289, 1381171914, "386118", 1381171914, "386118", "{\n}", "NMF", "Neighborhood Matching Fund", "Small Sparks Fund", "37431", "15320", "15673", "65673" ]
+, [ 290, "C10645B6-DAC2-4661-8675-14CF84DEC9FD", 290, 1381171914, "386118", 1381171914, "386118", "{\n}", "OCR", "Civil Rights", "Civil Rights", "2528584", "2723498", "2885852", "2969071" ]
+, [ 291, "1A9FE2D4-457D-4CD0-8337-8B5B7527E784", 291, 1381171914, "386118", 1381171914, "386118", "{\n}", "OED", "CDBG - Office of Economic Development", "Economic Development", "5892164", "3133675", "1208675", "1528675" ]
+, [ 292, "49B7470E-6CF5-4EEA-8EE1-2353CB9D17A0", 292, 1381171914, "386118", 1381171914, "386118", "{\n}", "OED", "Office of Economic Development", "Business Services", "5389440", "4880399", "4837218", "5898752" ]
+, [ 293, "E6C41724-4552-4B8F-B414-234A32E1E524", 293, 1381171914, "386118", 1381171914, "386118", "{\n}", "OED", "Office of Economic Development", "Economic Development Leadership", "688093", "634957", "653998", "514478" ]
+, [ 294, "C913FD29-5FD9-48E9-91F6-F9A51F270A20", 294, 1381171914, "386118", 1381171914, "386118", "{\n}", "OED", "Office of Economic Development", "Finance and Operations", "590882", "734520", "738833", "725751" ]
+, [ 295, "3FEBC611-315C-406A-89B4-F558A508AF78", 295, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "CDBG - Office of Housing", "Homeownership and Sustainability - CDBG", "650072", "987108", "987108", "767191" ]
+, [ 296, "8D9654F2-CEEF-4CE1-A8AE-7CA5183B9E07", 296, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "CDBG - Office of Housing", "Multi-Family Production and Preservation - CDBG", "541100", "871433", "871433", "871433" ]
+, [ 297, "51679521-EC4C-4BCF-986E-0530D06F63A2", 297, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "CDBG - Office of Housing", "Strategic Planning, Resource, and Program Development - CDBG", "441279", "101139", "101139", "101139" ]
+, [ 298, "8CFDF209-FE3D-48DC-9830-A1FC32E4F5E2", 298, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "Low-Income Housing Fund 16400", "Homeownership and Sustainability - 16400", "12622552", "10114537", "10163428", "10066129" ]
+, [ 299, "EE3E5E8D-681E-4571-8D58-648A9F8701BA", 299, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "Low-Income Housing Fund 16401", "Multi-Family Production and Preservation - 16400", "23850855", "32929361", "32929361", "32929361" ]
+, [ 300, "A415FD7A-3D71-4B31-AE92-F60541463880", 300, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "Office of Housing Operating Fund 16600", "Administration and Management - 16600", "1352161", "1591281", "1647222", "1664787" ]
+, [ 301, "885D585A-E2C9-448E-879A-92F88425413D", 301, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "Office of Housing Operating Fund 16601", "Community Development - 16600", "670607", "543813", "563325", "567877" ]
+, [ 302, "FB017F5D-D63E-4ADB-8940-B68142D451E6", 302, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "Office of Housing Operating Fund 16602", "Homeownership and Sustainability - 16600", "1456696", "1340874", "1387158", "1414788" ]
+, [ 303, "1E422EE1-EBE4-4362-8F68-D368D4CF1F00", 303, 1381171914, "386118", 1381171914, "386118", "{\n}", "OH", "Office of Housing Operating Fund 16603", "Multi-Family Production and Preservation - 16600", "1175270", "1256673", "1302909", "1303628" ]
+, [ 304, "FA485EEF-8BCE-4BFE-ABEC-335E65E25D64", 304, 1381171914, "386118", 1381171914, "386118", "{\n}", "OIR", "Intergovernmental Relations", "Intergovernmental Relations", "1885947", "2026469", "2089085", "2066757" ]
+, [ 305, "5F175ECE-3E4B-45F6-B7B2-CD4263337649", 305, 1381171914, "386118", 1381171914, "386118", "{\n}", "OIRA", "Office of Immigrant and Refugee Affairs", "Office of Immigrant and Refugee Affairs", "132646", "355797", "367588", "458650" ]
+, [ 306, "C90725FB-5F54-4714-8849-6DC340180A6B", 306, 1381171914, "386118", 1381171914, "386118", "{\n}", "OSE", "Office of Sustainability and Environment", "Office of Sustainability and Environment", "5726933", "1995677", "2092173", "2518090" ]
+, [ 307, "C140C056-013C-49D9-90E2-5571384B8A99", 307, 1381171914, "386118", 1381171914, "386118", "{\n}", "PCTF", "Group Term Life", "Group Term Life Program", "5352749", "6112320", "6234566", "6304320" ]
+, [ 308, "638B441B-20BB-4EE1-8048-0CBC8D4D4DD9", 308, 1381171914, "386118", 1381171914, "386118", "{\n}", "PCTF", "Health Care", "Health Care Program", "148828704", "161725755", "175209976", "176550687" ]
+, [ 309, "BBC22768-5896-4B18-AEA4-604CE5535FB8", 309, 1381171914, "386118", 1381171914, "386118", "{\n}", "PCTF", "Industrial Insurance", "Industrial Insurance Program", "15061977", "18330000", "19171000", "19811000" ]
+, [ 310, "6907B409-1789-4C97-8668-D76A52025A36", 310, 1381171914, "386118", 1381171914, "386118", "{\n}", "PCTF", "Special Employment", "Special Employment Program", "43453", "200000", "200000", "200000" ]
+, [ 311, "7C6DE11E-94DF-4809-8DDD-9A0EABBD2CB1", 311, 1381171914, "386118", 1381171914, "386118", "{\n}", "PCTF", "Transit Benefit", "Transit Benefit Program", "4620969", "4900000", "5400000", "3163490" ]
+, [ 312, "2E49E897-BAB6-464D-B9AC-0B2EBE597810", 312, 1381171914, "386118", 1381171914, "386118", "{\n}", "PCTF", "Unemployment Insurance", "Unemployment Insurance Program", "1896915", "1300777", "1001269", "1075000" ]
+, [ 313, "589EC9DA-4572-4B2A-9AB4-DE0B7F1FE6FA", 313, 1381171914, "386118", 1381171914, "386118", "{\n}", "PER", "City/Union Relations and Class/Comp Services", "City/Union Relations and Class/Comp Services", "3116348", "3391172", "3496440", "3443458" ]
+, [ 314, "E93F2B68-4B74-4760-8648-B205A50072A7", 314, 1381171914, "386118", 1381171914, "386118", "{\n}", "PER", "Citywide Personnel Services", "Citywide Personnel Services", "2628247", "2773615", "2855227", "2811976" ]
+, [ 315, "5E31A236-7DC9-485D-BADD-60E6F37B02EA", 315, 1381171914, "386118", 1381171914, "386118", "{\n}", "PER", "Employee Health Services", "Employee Health Services", "2789032", "2836675", "2929443", "2912785" ]
+, [ 316, "C5CEE7C3-6F81-410E-ADD6-DCFDAD443B15", 316, 1381171914, "386118", 1381171914, "386118", "{\n}", "PER", "Employment and Training", "Employment and Training", "2964612", "2813285", "2890152", "3605293" ]
+, [ 317, "EE67F1EC-00ED-4438-9C7E-7A6AC1C50C53", 317, 1381171914, "386118", 1381171914, "386118", "{\n}", "PGF", "Pacific Place Garage", "Pacific Place Garage", "7715000", "9359058", "8687760", "8687760" ]
+, [ 318, "835708AF-0E99-4696-B01B-FD43549ED835", 318, 1381171914, "386118", 1381171914, "386118", "{\n}", "PIKELEVY", "Pike Place Market Renovation", "Levy Proceeds", "6126746", null, null, null ]
+, [ 319, "4266B08D-C4EA-4B89-94C1-CF20BCA91279", 319, 1381171914, "386118", 1381171914, "386118", "{\n}", "PIKELEVY", "Pike Place Market Renovation Debt Service", "Pike Place Market Renovation Debt Service Program", "4101750", "8955250", "8951750", "8951750" ]
+, [ 320, "733488F4-73A6-4F03-87D7-D5823EE5D479", 320, 1381171914, "386118", 1381171914, "386118", "{\n}", "PPEN", "Police Relief and Pension", "Administration", "532576", "557301", "574069", "568165" ]
+, [ 321, "2A4B657E-C7FB-4A80-ACEA-0428B5AA8C9A", 321, 1381171914, "386118", 1381171914, "386118", "{\n}", "PPEN", "Police Relief and Pension", "Death Benefits", "10000", "15000", "15000", "15000" ]
+, [ 322, "41909CFE-BA90-4229-A1CC-CD82EFC798A0", 322, 1381171914, "386118", 1381171914, "386118", "{\n}", "PPEN", "Police Relief and Pension", "Medical Benefits", "11829298", "12500000", "12750000", "12750000" ]
+, [ 323, "5576FB55-49B8-43B5-9A2E-0AB645018AA4", 323, 1381171914, "386118", 1381171914, "386118", "{\n}", "PPEN", "Police Relief and Pension", "Pension Benefits", "7411693", "6715000", "6019999", "7500000" ]
+, [ 324, "8F0E3EB1-551C-4BF5-954D-46192CF29296", 324, 1381171914, "386118", 1381171914, "386118", "{\n}", "RET", "Personnel, Maintenance, and Operations", "Employees' Retirement", "10417266", "13940683", "14133643", "13425377" ]
+, [ 325, "94D9C990-CCD1-4BC6-AD3C-610CC04331DD", 325, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Compliance and Security", "Compliance and Security", "2891938", "3163331", "3442861", "3414126" ]
+, [ 326, "B8ABF550-53DB-4E8B-A446-765668A2AB4B", 326, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Conservation Resources and Environmental Affairs O&M", "Conservation Resources and Environmental Affairs O&M", "38752439", "59893973", "61573633", "56414392" ]
+, [ 327, "CF8C2883-03A1-4ADA-8E8D-10AB63683375", 327, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Customer Focused - CIP", "Customer Focused - CIP", "64485918", "53503046", "57204028", "42214506" ]
+, [ 328, "EB4830CA-0AA8-49B4-96D3-80538AEFF663", 328, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Customer Services", "Customer Services", "25305390", "27635692", "28307173", "28010478" ]
+, [ 329, "EC011B84-30EE-413F-95E4-4354ACD770B5", 329, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Debt Service", "Debt Service - BCL", "176240516", "179667546", "196466429", "192033882" ]
+, [ 330, "6EFDAE21-AB14-41E7-ABC7-7A58715E872D", 330, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Distribution Services", "Distribution Services", "67941292", "73787206", "73941794", "74119488" ]
+, [ 331, "B57DFB15-DE3A-4977-89C1-FEA988FECA07", 331, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Financial Services - CIP", "Financial Services - CIP", "2407725", "8612388", "15920063", "5848245" ]
+, [ 332, "E553E918-42AA-4A65-A1CE-9313DD7C3956", 332, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Financial Services - O&M", "Financial Services - O&M", "29109187", "36023479", "36575868", "36700560" ]
+, [ 333, "9C0F314E-644B-4BEC-A7F7-3881D31A0639", 333, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "General Expenses", "General Expenses", "77913188", "86752636", "87109392", "88189686" ]
+, [ 334, "A7F8633D-1B5C-4E7C-8327-4D975183669B", 334, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Human Resources", "Human Resources", "5316741", "9380049", "9137512", "9043467" ]
+, [ 335, "CA4D263D-737B-4C7C-A5F5-31E0F6208103", 335, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Long-Term Purchased Power", "Long-Term Purchased Power", "287471458", "277322789", "287056886", "287056886" ]
+, [ 336, "4307BED4-E9E5-45FD-8B2F-B951C3027F75", 336, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Office of Superintendent", "Office of Superintendent", "3085638", "3121630", "3198260", "3161304" ]
+, [ 337, "6281E56F-0FAA-4365-868B-BD6C274E9429", 337, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Power Supply & Environmental Affairs - CIP", "Power Supply & Environmental Affairs - CIP", "50433776", "72923920", "63417769", "63588127" ]
+, [ 338, "27D02B7A-C1F3-48ED-B90D-3C98967085C9", 338, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Power Supply O&M", "Power Supply O&M", "43671627", "50892548", "51451103", "50843631" ]
+, [ 339, "47D8966E-73CC-44F4-8CC4-A3A4FDD19185", 339, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Short-Term Purchased Power", "Short-Term Purchased Power", null, "52002066", "55573482", "55573482" ]
+, [ 340, "F53DD7E1-3FC5-4892-82D4-0D41F0F09B12", 340, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Taxes", "Taxes", "75938084", "81554950", "86159048", "87435816" ]
+, [ 341, "BD626546-600A-477A-9EF6-987A01B50A54", 341, 1381171914, "386118", 1381171914, "386118", "{\n}", "SCL", "Transmission and Distribution - CIP", "Transmission and Distribution - CIP", "52175806", "66042527", "83447858", "89135813" ]
+, [ 342, "153B97CD-F2C9-4FB0-B585-301E57A441EF", 342, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Bridges & Structures", "Bridge Operations", "2973113", "3032768", "3136661", "3249139" ]
+, [ 343, "D113C7F6-DFA5-46EB-BA3A-3F7D98448293", 343, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Bridges & Structures", "Structures Engineering", "652116", "795539", "823832", "823539" ]
+, [ 344, "B915987A-9A39-4D8A-857B-B1344C2FF59D", 344, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Bridges & Structures", "Structures Maintenance", "3576038", "3651169", "3758339", "4975874" ]
+, [ 345, "81D91003-520C-4043-B7A7-1C9DC5759E79", 345, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Director's Office", "1163346", "2277745", "2342913", "2033321" ]
+, [ 346, "5D837E57-20E9-45F2-8180-4272CF754361", 346, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Division Management", "10957664", "12770394", "13094515", "13878932" ]
+, [ 347, "BD93B77A-6A80-490F-968A-DB2A205B3835", 347, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Human Resources", "709090", "1218573", "1254597", "1389256" ]
+, [ 348, "0E8DA1E9-FFDE-4B83-866A-9343E4D0A086", 348, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Indirect Cost Recovery - Department Management", "-27771523", "-28841160", "-29687722", "-30798401" ]
+, [ 349, "94133A89-D210-45C2-B7C0-11594145287E", 349, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Public Information", "650591", "1068448", "1101364", "1454553" ]
+, [ 350, "51F6848E-EEA6-4985-AFE7-3DC2516575FE", 350, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Resource Management", "20326856", "12208543", "12600040", "13078004" ]
+, [ 351, "EE0D97BA-E646-4235-B35F-2690D10AA3EE", 351, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Department Management", "Revenue Development", "574682", "508388", "527318", "593668" ]
+, [ 352, "BE5CDA46-EFBC-469E-BCCD-209DC221C7CA", 352, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Engineering Services", "Engineering & Operations Support", "2392929", "2293658", "2155438", "1633548" ]
+, [ 353, "4AC4D501-9B66-4C91-918A-8F81A2DE8744", 353, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "General Expense", "City Central Costs", "11061261", "11753733", "12373597", "13092583" ]
+, [ 354, "63DB8BCA-FC5D-4AD9-83BC-C362B2519F3D", 354, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "General Expense", "Debt Service", "26016658", "27945577", "30881418", "29318398" ]
+, [ 355, "D6FB5027-F584-4D97-B75A-D1732CF45645", 355, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "General Expense", "Indirect Cost Recovery - General Expense", "-11657437", "-11753733", "-12373596", "-13098088" ]
+, [ 356, "5AB006BD-7E34-4BD0-9D7C-27D661494C83", 356, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "General Expense", "Judgment & Claims", "3507637", "2974125", "3553310", "3553310" ]
+, [ 357, "9936FB67-D5EE-4B09-9F59-D3499265F32A", 357, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Maintenance/Replacement", "Bridges & Structures", "37790377", "20463315", "11806419", "22123001" ]
+, [ 358, "FBCD1C28-2442-429A-BC6E-3DAC2E07E652", 358, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Maintenance/Replacement", "Landslide Mitigation", "595810", "408995", "411615", "412001" ]
+, [ 359, "57969A59-455A-4602-9CC0-7C415BFEC588", 359, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Maintenance/Replacement", "Roads", "23490120", "19564897", "29519524", "19826000" ]
+, [ 360, "ECE919DB-0046-4F52-995D-0BFE9C755DB1", 360, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Maintenance/Replacement", "Sidewalk Maintenance", "1461740", "2073367", "2324913", "2326000" ]
+, [ 361, "3C48D035-FA21-4754-A60C-51000EE1F0E7", 361, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Maintenance/Replacement", "Trails and Bike Paths", "3567934", "6313425", "6851529", "5483002" ]
+, [ 362, "4E262021-31D3-4600-B3AD-5EB40FF8B3AD", 362, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Projects", "Alaskan Way Viaduct and Seawall Replacement", "26725288", "72199012", "136724823", "135907000" ]
+, [ 363, "DD4EB753-9EF3-499B-B299-B76F9A1371CD", 363, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Projects", "First Hill Streetcar", "38445316", "24816642", "26510905", "14111000" ]
+, [ 364, "11A37B72-722E-401F-8E11-ACA16AE32FEB", 364, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Projects", "Mercer Corridor", "21661789", "5465368", "499983", "1" ]
+, [ 365, "974CEF5B-445B-4D2F-A531-4C536123AF06", 365, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Projects", "Mercer West", "6170749", "26854000", "31958804", "21221000" ]
+, [ 366, "963866BE-1250-4F57-B1D4-4A433A4A497F", 366, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Projects", "Spokane Street Viaduct", "18454689", null, null, null ]
+, [ 367, "70E7F11D-D443-475A-82FC-0A47EC3C8314", 367, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Major Projects", "SR-520", "347277", "266978", "274004", "678001" ]
+, [ 368, "68B5E7DB-1DC6-453B-8D7D-2C8AAFA32014", 368, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "Corridor & Intersection Improvements", "9270692", "8036383", "4714965", "18312000" ]
+, [ 369, "FF1D066F-43D0-4429-BCDC-469A69E74BD0", 369, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "Freight Mobility", "762429", "400608", "424894", "525000" ]
+, [ 370, "C040CE25-4743-42D8-91FC-D53094476E04", 370, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "Intelligent Transportation System", "147279", null, null, "2525000" ]
+, [ 371, "0D10EB0B-4155-4242-81C9-610B658B74B2", 371, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "Neighborhood Enhancements", "12465315", "3384364", "3807733", "4718001" ]
+, [ 372, "A7278BE1-AA09-4D09-9014-8BA769B05C88", 372, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "New Trails and Bike Paths", "3991608", "314135", "6053", "1" ]
+, [ 373, "C521B892-A1DF-48E2-B7B1-9D279C6594A5", 373, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "Sidewalks & Pedestrian Facilities", "5630969", "7295608", "6108468", "18322436" ]
+, [ 374, "29FB487A-5F38-427E-9D03-7B71C72C9A60", 374, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Capital", "Transit & HOV", "17282533", "4138902", "6129887", "9717001" ]
+, [ 375, "6FA81FD5-1C83-4072-BF09-AC76E2D4A27E", 375, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Operations", "Commuter Mobility", "9431938", "11220570", "11425943", "12394766" ]
+, [ 376, "FB1AAFFA-3A2B-4436-BD0D-AB51E9162B8B", 376, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Operations", "Neighborhoods", "1871210", "2574179", "2661061", "3694977" ]
+, [ 377, "58E5C65D-DAB0-400C-BF97-3D6BEAF96AE3", 377, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Operations", "Parking", "8441728", "8414048", "8716699", "8082550" ]
+, [ 378, "19F08762-AFC6-4D41-802B-8B66C117D053", 378, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Operations", "Signs & Markings", "3190388", "4787673", "4912640", "4660143" ]
+, [ 379, "663AF65D-A46F-4DE5-AD82-9716D2FD529D", 379, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Mobility-Operations", "Traffic Signals", "8507029", "8586254", "8655502", "10999450" ]
+, [ 380, "15130EA7-3260-4BFF-898E-F2780CF5A35A", 380, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "ROW Management", "Street Use Permitting & Enforcement", "11156402", "13733268", "13623961", "19848368" ]
+, [ 381, "F90CCDEB-E7D1-49A4-A168-933A41299A8C", 381, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Street Maintenance", "Emergency Response", "2795724", "1951627", "1992516", "1997697" ]
+, [ 382, "4CF3177E-E91D-4A6A-837E-055B592D3164", 382, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Street Maintenance", "Operations Support", "4035681", "4206906", "4300873", "3920558" ]
+, [ 383, "5775A2EA-609D-484E-9140-4C1DADFCD189", 383, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Street Maintenance", "Pavement Management", "288621", "284076", "295125", "295330" ]
+, [ 384, "4D095D01-CDB4-4726-B862-D855DC6F1CA9", 384, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Street Maintenance", "Street Cleaning", "5545335", "5303120", "5386919", "5686569" ]
+, [ 385, "3B7832BF-AF24-4171-8A69-AF29C747B02F", 385, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Street Maintenance", "Street Repair", "8955421", "11421045", "11635744", "9615852" ]
+, [ 386, "0ED2E6FF-6478-44AC-AD90-7A37142CF4EF", 386, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Urban Forestry", "Arborist Services", "1295424", "1028688", "1061301", "934759" ]
+, [ 387, "CFB85230-C051-4E17-9C70-B1C615F5D4EB", 387, 1381171914, "386118", 1381171914, "386118", "{\n}", "SDOT", "Urban Forestry", "Tree & Landscape Maintenance", "3276198", "3582080", "3695904", "3712849" ]
+, [ 388, "1AA53E47-8B94-497B-9D58-C196A892094A", 388, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Administration", "Communications", "6177189", null, null, null ]
+, [ 389, "C4C28BEA-481B-4750-94F3-934F5D8313EB", 389, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Administration", "Finance", "989155", "1278902", "1326252", "1327832" ]
+, [ 390, "EE68E7E3-B16D-4DA0-8E3C-B2C381FE83CD", 390, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Administration", "Human Resources", "1001876", "1102822", "1139787", "1137214" ]
+, [ 391, "76D24841-6251-44D8-8D84-1A4701D3AD04", 391, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Administration", "Information Systems", "4246280", "4189301", "4317090", "4305557" ]
+, [ 392, "F1A044B8-DB4A-447C-8ED4-66C8BC214A5A", 392, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Administration", "Office of the Chief", "948176", "798208", "823852", "814011" ]
+, [ 393, "42DB0C73-52D5-4195-9CB7-82DDCA162B2D", 393, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Administration", "Support Services", "1547687", null, null, "0" ]
+, [ 394, "E9E5A5E4-1733-4AB7-8D7B-EA5187B29851", 394, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Code Compliance", "433568", "472584", "487074", "494677" ]
+, [ 395, "1C02314B-6A60-4476-A385-E4C3B5685E33", 395, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Fire Investigation", "1167057", "1153511", "1190280", "1204719" ]
+, [ 396, "28E8B38C-E485-4DC7-B225-4F0DFBD5074D", 396, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Office of the Fire Marshal", "803923", "823237", "849180", "962745" ]
+, [ 397, "F27A937D-F5F3-4EE1-AB8C-30320E7E04B1", 397, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Public Education", "325520", "343541", "356290", "350066" ]
+, [ 398, "A8D6BE39-ACE2-4FAB-8B3C-AB80248C07EB", 398, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Regulating Construction", "1925382", "2287907", "2368927", "2238515" ]
+, [ 399, "452D8D1F-B409-449D-9620-0B4612D32367", 399, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Special Events", "479126", "545792", "560582", "506441" ]
+, [ 400, "C72B71C7-A89A-481F-B00B-92E164B4E0D3", 400, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Fire Prevention", "Special Hazards", "1448272", "1547588", "1606799", "1672224" ]
+, [ 401, "4908596C-F603-40C0-B420-52EFC3328E9B", 401, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Grants & Reimbursables", "Grants & Reimbursables", "8096780", "389200", "411686", "439815" ]
+, [ 402, "2084AED4-8D9D-4B02-AAB0-7DA4978EBDE3", 402, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Battalion 2", "23932474", "24261187", "25171124", "25641034" ]
+, [ 403, "15D137B4-FC24-463B-861D-3977D64238D3", 403, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Battalion 3 - Medic One", "13643232", "12853943", "13204905", "14164379" ]
+, [ 404, "70991D79-E136-4753-A73F-7E38CC8245A4", 404, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Battalion 4", "21364208", "24784200", "26906617", "25507629" ]
+, [ 405, "9EF8022B-FEB7-4C3F-B0DE-E70A8AADB843", 405, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Battalion 5", "22234345", "23243736", "24197848", "24182419" ]
+, [ 406, "FE76389A-86C6-41CA-A20C-3023F35519D5", 406, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Battalion 6", "19461758", "21223770", "22102313", "22187904" ]
+, [ 407, "06D73ACC-F0F1-4629-8677-6D8A96532412", 407, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Battalion 7", "18851155", "18850142", "19603527", "19948112" ]
+, [ 408, "79A66441-9827-42B8-A404-CCF5A5DF9D9D", 408, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Operations", "Office of the Operations Chief", "18200155", "15216010", "15607637", "15863111" ]
+, [ 409, "C373DF40-2CF4-46FD-8961-34F127CD8EB1", 409, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Resource Management", "Communications - Resource Mgmt", null, "6385112", "6584837", "7005038" ]
+, [ 410, "B99C8EC0-BD1D-4818-94BF-44D361711A5A", 410, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Resource Management", "Human Resources", null, null, null, "0" ]
+, [ 411, "EF53D2B1-FB1E-4569-A87E-D7FCE4B73423", 411, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Resource Management", "Safety and Risk Management", "1010847", "1125760", "1143072", "1203628" ]
+, [ 412, "3890346B-EEA0-49A4-A72B-2507234B77BB", 412, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Resource Management", "Support Services - Resource Mgmt", null, "1673238", "1723917", "1735197" ]
+, [ 413, "81225866-8D90-4993-8029-2E94FC599BAA", 413, 1381171914, "386118", 1381171914, "386118", "{\n}", "SFD", "Resource Management", "Training and Officer Development", "1772982", "1717199", "1779030", "1846951" ]
+, [ 414, "21306161-7881-465E-B86D-0D205C976E06", 414, 1381171914, "386118", 1381171914, "386118", "{\n}", "SMC", "Court Administration", "Court Administration", "5981305", "6117522", "6278791", "6395700" ]
+, [ 415, "B2D56575-18E4-4CCC-A19E-9051D2B12CA0", 415, 1381171914, "386118", 1381171914, "386118", "{\n}", "SMC", "Court Compliance", "Court Compliance", "5209863", "5343927", "5492767", "5713152" ]
+, [ 416, "A4333AD2-265F-4298-8F41-9E7EFC048E33", 416, 1381171914, "386118", 1381171914, "386118", "{\n}", "SMC", "Court Operations", "Court Operations", "15463148", "16045509", "16517907", "16553145" ]
+, [ 417, "81E16DDE-6195-44D2-B8E8-A8D1DAE85D61", 417, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Chief of Police", "Chief of Police", "15602723", "3537526", "3628345", "4963126" ]
+, [ 418, "C10B5BCE-D066-4FAB-AB75-2346326CBBF1", 418, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Criminal Investigations Administration", "Criminal Investigations Administration", "7575258", "7886770", "8134776", "8377670" ]
+, [ 419, "21626563-A803-4FAC-BA1C-52D46C8E06E0", 419, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Deputy Chief of Staff", "Deputy Chief of Staff", "24550515", "25286474", "26322311", "25448528" ]
+, [ 420, "7F11D2A7-1E36-4C7B-91EB-054B9757B960", 420, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Deputy Chief Operations", "Deputy Chief Operations", "2379862", "2300448", "2332794", "2699646" ]
+, [ 421, "DEF42264-27AD-4F55-A300-98F8B337C48C", 421, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "East Precinct", "East Precinct", "22523129", "22724724", "23270580", "24951631" ]
+, [ 422, "15C5C697-AE0B-4BC8-A9BA-17DE3E4E84E8", 422, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Field Support Administration", "Field Support Administration", "35187702", "38247444", "39294528", "31185299" ]
+, [ 423, "7E8FD2ED-375D-4151-B877-D1CBE31DFB00", 423, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Narcotics Investigations", "Narcotics Investigations", "4368797", "4698566", "4749243", "5012299" ]
+, [ 424, "9AC67294-E9DE-479C-B70E-00BD45A9A862", 424, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "North Precinct Patrol", "North Precinct Patrol", "30796483", "30676620", "31389723", "33738892" ]
+, [ 425, "927744EE-8BC2-46B0-9535-256695E0E0DE", 425, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Office of Professional Accountability", "Office of Professional Accountability", "2044853", "1942645", "1971424", "2072907" ]
+, [ 426, "278CF61F-2C06-4B45-B0D6-971ACA8B7D5D", 426, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Patrol Operations Administration", "Patrol Operations Administration", "1230140", "1303589", "1315411", "0" ]
+, [ 427, "7CDE83EB-2E3E-4719-8788-132DBDD6D5EF", 427, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Professional Standards", "Professional Standards", null, null, null, "13752381" ]
+, [ 428, "A98DC87F-7E3F-41CE-A399-6AB811F35C08", 428, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "South Precinct Patrol", "South Precinct Patrol", "16438055", "16580390", "17035206", "18210145" ]
+, [ 429, "56AA639C-62D4-4E0F-AA6D-BE60B21FCC84", 429, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Southwest Precinct Patrol", "Southwest Precinct Patrol", "14936206", "15009557", "15414679", "16471322" ]
+, [ 430, "AD0DF914-7FF0-4920-9009-9FCB579D7BEE", 430, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Special Investigations", "Special Investigations", "4124069", "4298428", "4338182", "4602045" ]
+, [ 431, "CC56CA6D-49AC-4B58-90F1-6B1F63AA459A", 431, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Special Operations", "Special Operations", "46486623", "46539227", "45565654", "48697233" ]
+, [ 432, "0E76A9A0-C398-487C-8B4B-D8CB58F4E01D", 432, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Special Victims", "Special Victims", "5923161", "6248451", "6333699", "6702499" ]
+, [ 433, "53DBBC53-E8DB-43D2-BC08-EAD1F9693B2F", 433, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "Violent Crimes Investigations", "Violent Crimes Investigations", "6779956", "7396587", "7465891", "7954541" ]
+, [ 434, "77E08E43-9E6B-4135-BAA7-FC73A74F5999", 434, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPD", "West Precinct Patrol", "West Precinct Patrol", "28670552", "28408334", "29024085", "31492822" ]
+, [ 435, "0FD2DF68-6D6F-4EA4-817A-13486A2E3413", 435, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Administrative Services", "Administrative Services Director", "492730", "690017", "713654", "633765" ]
+, [ 436, "71331BD3-8287-4278-B5F8-EE73B991D0AF", 436, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Administrative Services", "Event Services", null, null, null, "461576" ]
+, [ 437, "356542F1-96CA-4A8B-AF65-8D9D104FF1B7", 437, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Administrative Services", "Facilities Maintenance and Materials Distribution Services", "6434871", "7960893", "8205791", "0" ]
+, [ 438, "4A5309B6-7924-4D42-9C3A-CEBF090706DE", 438, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Administrative Services", "Facilities Maintenance Services", null, null, null, "6337133" ]
+, [ 439, "062F89AF-9197-4F12-97C7-22E6427CEDBB", 439, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Administrative Services", "Finance Services", "1015991", "1056694", "1056895", "1054892" ]
+, [ 440, "D8FD1B44-DAEF-48B5-8586-59CDEEFB8446", 440, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Administrative Services", "Safety and Security Services", "1089538", "1379856", "1427904", "1390102" ]
+, [ 441, "7970AC3E-0018-46B8-9AED-4DEC93987DA2", 441, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "City Librarian's Office", "City Librarian", "395601", "466670", "481513", "463500" ]
+, [ 442, "A77A69F4-2C75-436C-A27D-E2D9243F450B", 442, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "City Librarian's Office", "Communications", "446930", "541357", "557787", "282882" ]
+, [ 443, "452DD8E4-F3C9-43A5-B75D-FAC7622EC8B6", 443, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Human Resources", "Human Resources", "1101325", "1074409", "1110903", "1070337" ]
+, [ 444, "43ADD335-8F7E-4DAF-AE93-53E306122773", 444, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Information Technology", "Information Technology", "3058221", "5527071", "4907955", "4196393" ]
+, [ 445, "CC194743-4A4B-417B-BBA7-31EACC8D698E", 445, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Library Programs and Services", "Central Library Services", "12059925", "13999986", "14637966", "0" ]
+, [ 446, "AA8062BD-0A6C-4CD3-B5B2-7E61C00463B9", 446, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Library Programs and Services", "Collection and Access Services", "7433093", "9711550", "9995707", "11649140" ]
+, [ 447, "3379542C-D58B-4FE3-8759-59567C8B73EB", 447, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Library Programs and Services", "Library Programs and Services Director", null, null, null, "791526" ]
+, [ 448, "E9CA247A-6948-43AE-A85C-9F4E98A97D3D", 448, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Library Programs and Services", "Neighborhood Libraries", "17343070", "21164679", "22172709", "0" ]
+, [ 449, "CF826A11-94CB-4876-B92D-BD8DB281F622", 449, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Library Programs and Services", "Program and Services - Systemwide Services", null, null, null, "4841025" ]
+, [ 450, "A080E7AE-9F82-4187-8DDB-9F3460276F24", 450, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Library Programs and Services", "Programs and Services - Central and Branch Services", null, null, null, "28875730" ]
+, [ 451, "C4430A79-458F-4559-945B-C76FC386A405", 451, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPL", "Marketing and Online Services", "Marketing and Online Services", null, null, null, "855029" ]
+, [ 452, "B4593CD8-1BC9-4594-8B2D-B31CB843765A", 452, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Administration", "Administration", "34682771", "36351288", "37057610", "34403044" ]
+, [ 453, "76B648F0-1A04-42DC-9AC7-DB98A707C551", 453, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Administration", "General and Administrative Credit", "-16052816", "-17115801", "-14883459", "4130231" ]
+, [ 455, "2FAA0BA8-DF8D-45B0-BB8A-F341BA298955", 455, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Customer Service", "Customer Service", "26990735", "30407023", "30923869", "28188829" ]
+, [ 456, "239CD030-52BE-4674-8A79-037696904FF0", 456, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Distribution", "Distribution", "15699217", "19778088", "20393599", "22600235" ]
+, [ 457, "793478F4-5593-469F-A9BE-C891FA3C7A8D", 457, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Flooding, Sewer Back-up, and Landslides", "Flooding, Sewer Back-up, and Landslides", "14975567", "16710198", "17201000", "17025137" ]
+, [ 458, "0A26D2B6-2973-4874-A493-39B519B7B1CA", 458, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "General Expense", "Debt Service", "134194621", "132109865", "138716624", "135847101" ]
+, [ 459, "1973C28A-E377-4547-A4D6-3A00655E4780", 459, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "General Expense", "Other General Expenses", "257636446", "283183154", "286731987", "287713469" ]
+, [ 460, "93A47C06-1BF7-4CBA-B4FD-AFF7BF7520C2", 460, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "General Expense", "Taxes", "92632101", "96616222", "100889110", "104540792" ]
+, [ 461, "C33FBBBD-F3DD-4114-ADD4-F0C03821255B", 461, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Habitat Conservation Program", "Habitat Conservation Program", "4813421", "2506875", "2490751", "2610018" ]
+, [ 462, "643BD0A0-E1A4-4E0B-9985-746E420C8CF3", 462, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "New Facilities", "New Facilities", "12903704", "8888345", "32077233", "26574225" ]
+, [ 463, "131CD654-E3D7-414E-B958-D727CADB605D", 463, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Other Operating", "Field Operations", "54744025", "59737544", "61247774", "64492125" ]
+, [ 464, "3F93F830-AFDE-4B74-A0E1-670FA1B80CC3", 464, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Other Operating", "Pre-Capital Planning & Development", "2536413", "4923983", "4722944", "3547722" ]
+, [ 465, "440A6793-A778-4DDD-8B63-6920B21579D1", 465, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Other Operating", "Project Delivery", "15920507", "16520057", "16639211", "14346371" ]
+, [ 466, "14C4E75C-B263-4B01-81F4-92D0A41D5270", 466, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Other Operating", "Utility Systems Management", "34518315", "37267628", "38122145", "31064732" ]
+, [ 467, "22F2E782-CE5A-48DE-9CF0-EE36924F6300", 467, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Protection of Beneficial Uses", "Protection of Beneficial Uses", "4031097", "5108000", "5141941", "3195304" ]
+, [ 468, "A1615131-B4C0-4CBB-A9A2-F7C7F70EE4EA", 468, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Rehabilitation", "Rehabilitation", "8806106", "9190498", "8770000", "11864169" ]
+, [ 469, "184C4CD5-5F93-48EE-8753-C2039F88930B", 469, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Rehabilitation and Heavy Equipment", "Rehabilitation and Heavy Equipment", "290554", "80483", "45000", "45000" ]
+, [ 470, "D12824AD-74E0-4112-8DF2-02955AF01DF7", 470, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Sediments", "Sediments", "2947924", "1678965", "2050342", "3422898" ]
+, [ 471, "A5CAF222-535A-4163-AF9E-31DD922EE77B", 471, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Shared Cost Projects", "Shared Cost Projects", "13824300", "28703129", "33154097", "39822802" ]
+, [ 472, "76754DD5-6AEB-4A84-A311-AA313012844F", 472, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Technology", "Technology", "8615324", "23666940", "21100549", "23922173" ]
+, [ 473, "34DE2BC2-B1E5-4888-A6F9-607BF2B27607", 473, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Transmission", "Transmission", "172025", "1702753", "3075786", "2915905" ]
+, [ 474, "6C0C1040-F6FD-4EC2-A309-80DDD496B640", 474, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Water Quality & Treatment", "Water Quality & Treatment", "7853779", "3333857", "5303791", "11279359" ]
+, [ 475, "94ABD67F-588B-4F40-968F-BD510BAD366A", 475, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Water Resources", "Water Resources", "3297791", "6682957", "8212072", "4215073" ]
+, [ 476, "7CCD7F90-759E-475F-A895-6E96323DC4E6", 476, 1381171914, "386118", 1381171914, "386118", "{\n}", "SPU", "Watershed Stewardship", "Watershed Stewardship", "1169111", "3000", "1999", "227000" ]
+, [ 477, "18E95EB7-0BBA-4613-8542-E2FA17DEA1C5", 477, 1381171914, "386118", 1381171914, "386118", "{\n}", "STCAR", "Streetcar Operations", "Streetcar Operations", "670732", "730935", "5736749", "5736611" ]
+, [ 478, "9E4CF0EF-1BFD-4BB3-B992-6B5A9DAE80FB", 478, 1381171914, "386118", 1381171914, "386118", "{\n}", "SZF", "Camera Operations, Administration, and Enforcement", "Camera Operations, Administration, and Enforcement", null, null, null, "1530586" ]
+, [ 479, "A1032079-4A02-4BDC-B106-661CBD95ED72", 479, 1381171914, "386118", 1381171914, "386118", "{\n}", "SZF", "School Safety Education and Outreach, Infrastructure Maintenance, and Capital Improvements", "Capital Improvements", null, null, null, "6599000" ]
+, [ 480, "95BE06F9-4C4E-46ED-94E2-A150FA8780A3", 480, 1381171914, "386118", 1381171914, "386118", "{\n}", null, null, "Non-Capital Operations and Maintenance", null, null, null, "489500" ]
+ ]
+}
